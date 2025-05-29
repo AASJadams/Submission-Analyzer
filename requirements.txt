@@ -4,3 +4,5 @@ python-dotenv
 PyMuPDF
 docx2txt
 openpyxl
+beautifulsoup4
+requests
