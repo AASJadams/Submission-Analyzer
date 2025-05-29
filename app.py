@@ -1,172 +1,118 @@
-import streamlit as st
 import os
-import tempfile
 import time
-import base64
+import tempfile
 import fitz  # PyMuPDF
+import pandas as pd
 import docx2txt
-import openpyxl
-import re
+import streamlit as st
+import requests
+from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from openai import OpenAI
 
-# Load environment variables from .env
 load_dotenv()
-
-# OpenAI client setup
 client = OpenAI(api_key="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")
 
 st.set_page_config(page_title="Insurance Submission Analyzer", layout="wide")
-st.title("📄 Insurance Submission Analyzer")
 
-st.markdown("""
-Upload your insurance submission documents in the following order:
-1. **Discovery Form**
-2. **Supplemental Application(s)**
-3. **ACORD Forms**
-4. **Loss Runs**
+st.title("📄 Commercial Insurance Submission Analyzer")
+st.markdown("Upload documents like supplemental apps, ACORDs, loss runs, etc. Optionally add manual notes or a business website.")
 
-The tool will analyze and summarize the contents for underwriting.
-""")
-
-# Session states
+# Keep track of analyzed files
 if "analyzed_files" not in st.session_state:
-    st.session_state.analyzed_files = set()
-
-if "summary_text" not in st.session_state:
-    st.session_state.summary_text = ""
-
+    st.session_state.analyzed_files = []
 if "all_text" not in st.session_state:
     st.session_state.all_text = ""
 
-# Fix broken words
-def fix_broken_words(text):
-    text = re.sub(r'(\b(?:[a-zA-Z]\s){2,}[a-zA-Z]\b)', lambda m: m.group(0).replace(' ', ''), text)
-    text = re.sub(r'(\d)\s(?=\d)', r'\1', text)
-    return text
-
-# File text extraction
-def extract_text(file):
-    suffix = os.path.splitext(file.name)[1]
-    with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp:
-        tmp.write(file.read())
-        tmp_path = tmp.name
-
-    try:
-        if file.name.endswith(".pdf"):
-            doc = fitz.open(tmp_path)
-            text = "\n".join(page.get_text() for page in doc)
-            doc.close()
-        elif file.name.endswith(".docx"):
-            text = docx2txt.process(tmp_path)
-        elif file.name.endswith(".xlsx"):
-            wb = openpyxl.load_workbook(tmp_path)
-            text = ""
-            for sheet in wb.worksheets:
-                for row in sheet.iter_rows(values_only=True):
-                    text += " ".join([str(cell) if cell is not None else "" for cell in row]) + "\n"
-            wb.close()
-        else:
-            text = ""
-    finally:
-        time.sleep(1)
-        try:
-            os.remove(tmp_path)
-        except PermissionError:
-            pass
-
-    return fix_broken_words(text)
-
-# File uploader
+# Upload and process files
 uploaded_files = st.file_uploader("Upload submission documents", type=["pdf", "docx", "xlsx"], accept_multiple_files=True)
 
-# Append and update session all_text
+manual_input = st.text_area("📝 Optional: Type any additional information about the business or risk")
+
+website_url = st.text_input("🌐 Optional: Enter the insured’s website URL")
+
+def extract_text(file):
+    tmp_path = None
+    text = ""
+    try:
+        suffix = os.path.splitext(file.name)[1]
+        with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp_file:
+            tmp_file.write(file.read())
+            tmp_path = tmp_file.name
+
+        if suffix == ".pdf":
+            with fitz.open(tmp_path) as doc:
+                for page in doc:
+                    text += page.get_text()
+        elif suffix == ".docx":
+            text = docx2txt.process(tmp_path)
+        elif suffix == ".xlsx":
+            df = pd.read_excel(tmp_path, sheet_name=None)
+            for sheet in df.values():
+                text += sheet.to_string(index=False)
+    finally:
+        time.sleep(1)
+        if tmp_path:
+            try:
+                os.remove(tmp_path)
+            except PermissionError:
+                pass
+    return text
+
+def scrape_website_text(url):
+    try:
+        response = requests.get(url, timeout=5)
+        soup = BeautifulSoup(response.text, "html.parser")
+        return ' '.join([p.get_text(separator=" ") for p in soup.find_all("p")])
+    except Exception:
+        return ""
+
 if uploaded_files:
-    new_text = ""
     for file in uploaded_files:
-        if file.name in st.session_state.analyzed_files:
-            st.info(f"✅ {file.name} already analyzed.")
-            continue
+        if file.name not in st.session_state.analyzed_files:
+            file_text = extract_text(file)
+            st.session_state.all_text += f"\n\nFrom file: {file.name}\n{file_text}"
+            st.session_state.analyzed_files.append(file.name)
 
-        st.info(f"🔍 Analyzing: {file.name}")
-        file_text = extract_text(file)
-        new_text += f"\n---\n{file.name}\n---\n{file_text}"
-        st.session_state.analyzed_files.add(file.name)
+if manual_input:
+    st.session_state.all_text += f"\n\nManual Notes:\n{manual_input}"
 
-    # Add new content to all_text only if not already present
-    if new_text.strip():
-        st.session_state.all_text += new_text
+if website_url:
+    website_content = scrape_website_text(website_url)
+    if website_content:
+        st.session_state.all_text += f"\n\nWebsite Content from {website_url}:\n{website_content}"
 
-# Only run GPT if there is content
-if st.session_state.all_text.strip():
-    with st.spinner("Processing with GPT..."):
+if st.session_state.all_text:
+    st.markdown("### 📊 Submission Summary")
+    with st.spinner("Analyzing submission..."):
         prompt = f"""
-You are an insurance underwriting assistant. Analyze the following insurance submission documents and generate a clean, non-repetitive executive summary using the following format:
+Analyze the following insurance submission data and generate an executive summary for an underwriter. The output should be formatted using section titles in **bold**, and include bullet points where appropriate.
 
-**Executive Summary:**
-(Concise summary of the business and their insurance request)
+Sections to include:
+- **Executive Summary**
+- **Business Overview**
+- **Insurance Coverage**
+- **Loss History**
+- **Fleet & Drivers**
+- **🛠️ Description of Operations**
+- **🏢 Underwriting Consideration** (analyze if BITCO, United Fire Group, The Hanover, EMC, FCCI, Liberty Mutual, RT Specialty or other carriers might write this)
+- **📊 NAICS, SIC, and General Liability (GL) Class Codes**
 
-**Business Overview:**
-- **Named Insured:**
-- **Physical Addresses:**
-- **Business Type:**
-- **Years in Business:**
-- **Estimated Annual Revenue:**
-
-**Insurance Coverage Requested:**
-- General Liability
-- Property
-- Business Auto
-- Workers Compensation
-- Inland Marine
-- Excess/Umbrella
-
-**Loss History:**
-(Brief summary of major losses, dates, amounts, loss ratio, open claims)
-
-**Fleet & Drivers:**
-(Number of vehicles, types, driver info, exposures)
-
-**Description of Operations:**
-(Clear breakdown of what the insured does, services/products offered, facility setup, risk exposures, etc.)
-
-**Underwriting Consideration:**
-Would any of the following carriers likely write this risk based on the information provided? Please justify for each: 
-- BITCO
-- United Fire Group
-- The Hanover
-- EMC
-- FCCI
-- Liberty Mutual
-- RT Specialty
-- Other MGAs or standard carriers
-
-**Classification Codes:**
-- **NAICS:**
-- **SIC:**
-- **General Liability Class Code(s):**
-
-Text to analyze:
+Content:
 {st.session_state.all_text}
 """
+
         response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "You are a helpful insurance underwriting assistant."},
-                {"role": "user", "content": prompt},
-            ],
+            model="gpt-4",
+            messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
         )
-        st.session_state.summary_text = response.choices[0].message.content
 
-# Display summary
-if st.session_state.summary_text:
+        result = response.choices[0].message.content
+        st.markdown(result.replace("###", "**").replace("\n- ", "\n• "), unsafe_allow_html=True)
+
+    # Show which files have been analyzed
     st.markdown("---")
-    st.markdown("**📋 Submission Summary**")
-    st.markdown(st.session_state.summary_text, unsafe_allow_html=True)
-
-    if st.button("🔄 Clear Summary"):
-        st.session_state.summary_text = ""
-        st.session_state.all_text = ""
-        st.session_state.analyzed_files = set()
-        st.success("Summary cleared. You can now re-upload documents.")
+    st.markdown("**✅ Analyzed Files:**")
+    for name in st.session_state.analyzed_files:
+        st.markdown(f"- {name}")
