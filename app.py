@@ -72,7 +72,7 @@ def fetch_website_content(url):
         soup = BeautifulSoup(response.text, "html.parser")
         return soup.get_text(separator=" ", strip=True)
     except Exception:
-        return ""
+        return "❌ Unable to retrieve or parse the website content. The site may block bots or use dynamic content."
 
 # Aggregate all content
 all_text = ""
