@@ -67,12 +67,17 @@ def extract_text(file):
 # Fetch and clean website content
 def fetch_website_content(url):
     try:
-        headers = {"User-Agent": "Mozilla/5.0"}
-        response = requests.get(url, headers=headers, timeout=5)
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                          "AppleWebKit/537.36 (KHTML, like Gecko) "
+                          "Chrome/58.0.3029.110 Safari/537.3"
+        }
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
         return soup.get_text(separator=" ", strip=True)
-    except Exception:
-        return "❌ Unable to retrieve or parse the website content. The site may block bots or use dynamic content."
+    except requests.exceptions.RequestException as e:
+        return f"❌ Unable to retrieve or parse the website content. Error: {e}"
 
 # Aggregate all content
 all_text = ""
