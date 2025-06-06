@@ -14,6 +14,7 @@ from tenacity import retry, stop_after_attempt, wait_random_exponential
 st.set_page_config(page_title="Submission Analyzer", layout="wide")
 
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+st.write("🔍 ENV KEY STARTS WITH:", os.environ.get("OPENAI_API_KEY", "❌ MISSING")[:12])
 
 # Custom styles
 st.markdown(
