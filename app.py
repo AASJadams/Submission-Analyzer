@@ -12,6 +12,7 @@ from openai import OpenAI
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+st.write("🔑 Loaded key starts with:", st.secrets.get("OPENAI_API_KEY", "❌ NOT FOUND")[:10])
 
 st.set_page_config(page_title="Submission Analyzer", layout="wide")
 
