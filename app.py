@@ -11,9 +11,9 @@ from bs4 import BeautifulSoup
 from openai import OpenAI
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
-
 st.set_page_config(page_title="Submission Analyzer", layout="wide")
+
+client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 # Custom styles
 st.markdown(
