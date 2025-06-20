@@ -10,6 +10,7 @@ import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 from tenacity import retry, stop_after_attempt, wait_random_exponential
+from gl_lookup import smart_gl_lookup
 
 st.set_page_config(page_title="Submission Analyzer", layout="wide")
 
@@ -184,6 +185,7 @@ Clear business operations summary.
 - SIC:
 - NAICS:
 - General Liability Class Codes:
+    - {smart_gl_lookup(all_text)["GL Class Code"]} – {smart_gl_lookup(all_text)["Description"]}
 
 **Underwriting Consideration**
 Provide a bullet-point list for each of the following carriers:

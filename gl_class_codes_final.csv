@@ -1,0 +1,1156 @@
+General Liability Code,General Liability Description,score,similarity,GL Class Code
+10010,Air Conditioning Equipment--Dealers or Distributors Only,0.0,0.2807017543859649,10010
+10015,Amusement Centers,0.0,0.16,10015
+10020,Amusement Parks,0.0,0.136986301369863,10020
+10026,Antique Stores,0.0,0.1111111111111111,10026
+10036,Anhydrous Ammonia Dealers and Distributors,1.0,0.32,10036
+10040,Appliance Distributors--Household Type,0.0,0.14583333333333334,10040
+10042,Appliance Stores--Household Type,0.0,0.2222222222222222,10042
+10052,Archery Ranges--Indoor,0.0,0.175,10052
+10054,Archery Ranges--Other Than Indoor,0.0,0.2857142857142857,10054
+10060,Army and Navy Stores,1.0,0.28205128205128205,10060
+10065,Art Galleries--Other Than Not-For-Profit,0.0,0.061224489795918366,10065
+10066,Art Galleries--Not-For-Profit Only,0.0,0.15217391304347827,10066
+10070,Automobile Parts and Supplies Distributors,1.0,0.26,10070
+10071,Automobile Parts and Supplies Stores,1.0,0.2765957446808511,10071
+10072,Automobile Quick Lubrication Services,0.0,0.10526315789473684,10072
+10073,Automobile Repair or Service Shops,0.0,0.30434782608695654,10073
+10075,Automobile Repair Shops--Self-Service,0.0,0.2736842105263158,10075
+10100,Bakeries,0.0,0.09090909090909091,10100
+10101,Boat Dealers,0.0,0.2,10101
+10105,Boat Storage and Moorage,1.0,0.3170731707317073,10105
+10107,Boat Yards or Marinas--Public,0.0,0.1839080459770115,10107
+10110,Boats--Canoes or Rowboats--for Rent--Not Equipped with Motors,1.0,0.2857142857142857,10110
+10111,Barber or Beauty Shop Supplies Distributors,0.0,0.31683168316831684,10111
+10113,Barber Shops,0.0,0.17142857142857143,10113
+10115,Beauty Parlors and Hair Styling Salons,1.0,0.3958333333333333,10115
+10117,Boats--Motor or Sail--Rented to Others,0.0,0.2708333333333333,10117
+10119,Boats--Rented to Others NOC,0.0,0.3058823529411765,10119
+10120,Bathhouses or Bathing Pavilions,0.0,0.3146067415730337,10120
+10130,Bazaars--Operated by the Insured--Other Than Not-For-Profit,0.0,0.05128205128205128,10130
+10132,Bazaars--Operated by the Insured--Not-For-Profit Only,0.0,0.12612612612612611,10132
+10133,Beach Chairs and Umbrellas--Rented to Others,1.0,0.29411764705882354,10133
+10135,Beaches--Bathing--Commercially Operated,0.0,0.16494845360824742,10135
+10140,Beverage Distributors--Alcoholic Other Than Beer,0.0,0.33962264150943394,10140
+10141,Beverage Distributors--Nonalcoholic and Beer,1.0,0.27450980392156865,10141
+10145,Beverage Stores--Liquor and Wine,1.0,0.28888888888888886,10145
+10146,Beverage Stores--Soft Drinks and Beer,1.0,0.3157894736842105,10146
+10150,Bicycle Stores--Sales and Servicing,1.0,0.3870967741935484,10150
+10151,Bicycles--Rented to Others,0.0,0.2619047619047619,10151
+10160,Billiard or Pool Halls,0.0,0.25,10160
+10204,Books and Magazines Stores--Other Than Not-For-Profit,1.0,0.1981981981981982,10204
+10205,Books and Magazines Stores--Not-For-Profit Only,1.0,0.20952380952380953,10205
+10220,Bowling Lanes,0.0,0.2535211267605634,10220
+10255,Building Material Dealers--Other Than Secondhand Material,1.0,0.24347826086956523,10255
+10256,Building Material Dealers--Secondhand Material,1.0,0.2692307692307692,10256
+10257,Building Material Distributors,0.0,0.29545454545454547,10257
+10309,Camera and Photographic Equipment Stores,1.0,0.2857142857142857,10309
+10315,Camper or Travel Trailer Sales Agencies,0.0,0.26804123711340205,10315
+10331,Campgrounds--Other Than Not-For-Profit,0.0,0.2916666666666667,10331
+10332,Campgrounds--Not-For-Profit Only,0.0,0.24444444444444444,10332
+10352,Candy or Confectionery Stores,1.0,0.27586206896551724,10352
+10367,Car Washes--Other Than Self-Service,0.0,0.27956989247311825,10367
+10368,Car Washes--Self-Service,0.0,0.17073170731707318,10368
+10375,Carnival or Circus Companies,0.0,0.2558139534883721,10375
+10378,Carnivals--Outside (Sponsor's Risk Only) Other Than Not-For-Profit,0.0,0.04838709677419355,10378
+10379,Carnivals--Outside (Sponsor's Risk Only) Not-For-Profit Only,0.0,0.11864406779661017,10379
+10380,Carnivals or Circuses--in Tents (Sponsor's Risk Only) Other Than Not-For-Profit,0.0,0.043795620437956206,10380
+10381,Carnivals or Circuses--in Tents (Sponsor's Risk Only) Not-For-Profit Only,0.0,0.10687022900763359,10381
+11007,"Carpet, Rug or Upholstery Cleaning--Shop Only",0.0,0.2524271844660194,11007
+11020,Catalog or Premium Coupon Redemption Stores,0.0,0.21782178217821782,11020
+11039,Caterers,0.0,0.18181818181818182,11039
+11052,Chairs--Rented to Others,0.0,0.2682926829268293,11052
+11101,Chemical Distributors,0.0,0.1518987341772152,11101
+11120,Children's Playcenter--Indoor,0.0,0.09195402298850575,11120
+11126,Clothing or Wearing Apparel Distributors,0.0,0.2857142857142857,11126
+11127,Clothing or Wearing Apparel Stores--Other Than Not-For-Profit,0.0,0.2857142857142857,11127
+11128,Clothing or Wearing Apparel Stores--Not-For-Profit Only,0.0,0.2831858407079646,11128
+11138,Clubs--Country or Golf,0.0,0.175,11138
+11155,Collectibles and Memorabilia Stores,1.0,0.25806451612903225,11155
+11160,Computer Stores,0.0,0.0821917808219178,11160
+11167,"Concessionaires--Checkroom, Shoeshine or Toilet Concessions in Hotels, Restaurants, Railroad Stations, etc.",0.0,0.2787878787878788,11167
+11168,Concessionaires,0.0,0.2465753424657534,11168
+11201,"Contractors Equipment--Cranes, Derricks, Power Shovels and Equipment Incidental Thereto--Rented to Others with Operators",2.0,0.25842696629213485,11201
+11202,"Contractors Equipment--Cranes, Derricks, Power Shovels and Equipment Incidental Thereto--Rented to Others without Operators",2.0,0.26519337016574585,11202
+11203,"Contractors Equipment Dealers--Ladders, Excluding Hoists, Scaffolds or Towers",0.0,0.23703703703703705,11203
+11204,"Contractors Equipment Dealers--Ladders, Hoists, Scaffolds or Towers",0.0,0.256,11204
+11205,"Contractors Equipment--Earth Moving Equipment Other Than Cranes, Derricks and Power Shovels--Rented to Others with Operators",2.0,0.23076923076923078,11205
+11206,"Contractors Equipment--Earth Moving Equipment Other Than Cranes, Derricks and Power Shovels--Rented to Others without Operators",2.0,0.1945945945945946,11206
+11207,Contractors Equipment--Excluding Automobiles--Rented to Others with Operators,1.0,0.2518518518518518,11207
+11208,Contractors Equipment--Excluding Automobiles--Rented to Others without Operators,1.0,0.2608695652173913,11208
+11209,Contractors Equipment--Hod or Material Platform Hoists and Equipment Incidental Thereto--Rented to Others with Operators,2.0,0.2247191011235955,11209
+11210,Contractors Equipment--Hod or Material Platform Hoists and Equipment Incidental Thereto--Rented to Others without Operators,2.0,0.23204419889502761,11210
+11211,"Contractors Equipment--Ladders, Scaffolds, Scaffolding, Sidewalk Bridges, Towers and Equipment Incidental Thereto--Rented to Others",1.0,0.19047619047619047,11211
+11212,"Contractors Equipment--Scaffolds, Sidewalk Bridges, Hod or Material Hoists, Towers--Rented to Others--Installation, Repair or Removal Operations Only",0.0,0.1642512077294686,11212
+11213,"Contractors Equipment--Steam Boilers, Compressors, Air Pressure Tanks, Pneumatic Tools and Equipment Incidental Thereto--Rented to Others with Operators",2.0,0.20952380952380953,11213
+11214,"Contractors Equipment--Steam Boilers, Compressors, Air Pressure Tanks, Pneumatic Tools and Equipment Incidental Thereto--Rented to Others without Operators",2.0,0.215962441314554,11214
+11222,Copying and Duplicating Services--Retail,1.0,0.30612244897959184,11222
+11234,"Cosmetic, Hair or Skin Preparation Stores",0.0,0.10101010101010101,11234
+11248,Cotton or Wool Merchants,0.0,0.21951219512195122,11248
+11258,Dairy Products or Butter and Egg Stores--Other Than Not-For-Profit,1.0,0.27419354838709675,11258
+11259,Dairy Products or Butter and Egg Stores--Not-For-Profit Only,1.0,0.288135593220339,11259
+11273,"Dance Halls, Ballrooms or Discotheques--Other Than Not-For-Profit",0.0,0.04878048780487805,11273
+11274,"Dance Halls, Ballrooms or Discotheques--Not-For-Profit Only",0.0,0.11965811965811966,11274
+11288,Delicatessens,0.0,0.19718309859154928,11288
+12014,Dental Laboratories,0.0,0.18181818181818182,12014
+12356,Department or Discount Stores,0.0,0.09195402298850575,12356
+12361,Distributors--Food or Drink,0.0,0.1411764705882353,12361
+12362,Distributors--No Food or Drink,0.0,0.22727272727272727,12362
+12373,Drug Distributors,0.0,0.18666666666666668,12373
+12374,Drugstores--No Table or Counter Service for Beverage or Food,0.0,0.2033898305084746,12374
+12375,Drugstores,0.0,0.08823529411764706,12375
+12391,Electrical Equipment Distributors,0.0,0.1978021978021978,12391
+12393,Electronics Store,0.0,0.16,12393
+12467,"Equipment, Fixtures or Supplies--for Bars, Hotels, Offices, Restaurants or Stores--Distributors",0.0,0.16993464052287582,12467
+12509,Fabric Distributors,0.0,0.23376623376623376,12509
+12510,Fabric Stores,0.0,0.14084507042253522,12510
+12583,"Feed, Grain or Hay Dealers",0.0,0.3333333333333333,12583
+12651,Fence Dealers,0.0,0.2535211267605634,12651
+12683,Fertilizer Dealers and Distributors,1.0,0.3010752688172043,12683
+12707,Fire Protection Equipment Dealers and Distributors,1.0,0.3148148148148148,12707
+12797,Floor Covering Distributors,0.0,0.23529411764705882,12797
+12805,Floor Covering Stores,0.0,0.22784810126582278,12805
+12841,Florists,0.0,0.12121212121212122,12841
+12927,Formal Wear or Costumes--Rented to Others,0.0,0.24242424242424243,12927
+13049,Frozen Food--Distributors,0.0,0.24096385542168675,13049
+13111,Fruit or Vegetable Dealers,0.0,0.23809523809523808,13111
+13112,Fruit or Vegetable Distributors,0.0,0.2247191011235955,13112
+13201,Fuel Dealers or Distributors--Coal or Wood,0.0,0.26,13201
+13204,Fuel Oil or Kerosene Dealers,0.0,0.23255813953488372,13204
+13205,Fuel Oil or Kerosene Distributors,0.0,0.21978021978021978,13205
+13314,Fur--Garments and Pelts--Distributors,1.0,0.25263157894736843,13314
+13351,Furniture Stores--Other Than Not-For-Profit,0.0,0.0594059405940594,13351
+13352,Furniture Stores--Not-For-Profit Only,0.0,0.14736842105263157,13352
+13410,Gas Dealers--LPG,0.0,0.24324324324324326,13410
+13411,Gas Dealers or Distributors,0.0,0.23529411764705882,13411
+13412,Gas Distributors--LPG,0.0,0.25316455696202533,13412
+13453,Gasoline Stations--Full Service,0.0,0.20224719101123595,13453
+13454,Gasoline Stations--Self-Service,0.0,0.20224719101123595,13454
+13455,Gasoline Stations--Self and Full Service Combined,1.0,0.3364485981308411,13455
+13506,Gift Shops--Other Than Not-For-Profit,0.0,0.06315789473684211,13506
+13507,Gift Shops--Not-For-Profit Only,0.0,0.15730337078651685,13507
+13590,Glass Dealers and Glaziers,1.0,0.3333333333333333,13590
+13621,Grain Milling,0.0,0.22535211267605634,13621
+13670,Grocery Distributors,0.0,0.23076923076923078,13670
+13673,Grocery Stores,0.0,0.19444444444444445,13673
+13715,Hardware and Tool Distributors,1.0,0.18181818181818182,13715
+13716,Hardware Stores,0.0,0.0821917808219178,13716
+13720,Health or Natural Food Stores,0.0,0.2988505747126437,13720
+13759,Hearing Aid Stores,0.0,0.3157894736842105,13759
+13930,Heating or Combined Heating and Air Conditioning Equipment--Dealers or Distributors Only,1.0,0.2876712328767123,13930
+14068,Hide Dealers and Distributors--Raw,1.0,0.2391304347826087,14068
+14101,"Hobby, Craft or Artists' Supply Stores",0.0,0.10416666666666667,14101
+14279,Home Improvement Stores,0.0,0.09876543209876543,14279
+14401,Ice Cream Stores,0.0,0.10810810810810811,14401
+14405,Ice Dealers and Distributors,1.0,0.23255813953488372,14405
+14527,Janitorial Supplies--Dealers or Distributors,0.0,0.23529411764705882,14527
+14655,Jewelry Stores or Distributors,0.0,0.20454545454545456,14655
+14731,Laundries and Dry Cleaners--Self-Service,1.0,0.2653061224489796,14731
+14732,Laundry and Dry Cleaning or Dyeing Receiving Stations,1.0,0.3063063063063063,14732
+14733,Laundry and Dry Cleaning Stores,1.0,0.3146067415730337,14733
+14734,Laundry Rental Service,0.0,0.2,14734
+14855,Livestock Dealers or Commission Merchants,0.0,0.32323232323232326,14855
+14913,Locksmiths,0.0,0.14705882352941177,14913
+15060,Machinery or Equipment Dealers--Construction or Industrial--Mobile Type,0.0,0.07751937984496124,15060
+15061,Machinery or Equipment Dealers--Farm Type,0.0,0.10101010101010101,15061
+15062,Machinery or Equipment Dealers,0.0,0.11363636363636363,15062
+15063,Machinery or Equipment Dealers--Yard or Garden Type,0.0,0.11009174311926606,15063
+15070,Mail Box or Packaging Stores,0.0,0.2558139534883721,15070
+15119,Markets--Not Open Air (Lessor's Risk Only) Other Than Not-For-Profit,0.0,0.047619047619047616,15119
+15120,Markets--Not Open Air (Lessor's Risk Only) Not-For-Profit Only,0.0,0.11666666666666667,15120
+15123,Markets--Open Air (Lessor's Risk Only) Other Than Not-For-Profit,0.0,0.04918032786885246,15123
+15124,Markets--Open Air (Lessor's Risk Only) Not-For-Profit Only,0.0,0.1206896551724138,15124
+15188,Oil or Gas Well Supplies or Equipment Dealers--Secondhand,1.0,0.1565217391304348,15188
+15223,"Meat, Fish, Poultry or Seafood--Distributors",0.0,0.21568627450980393,15223
+15224,"Meat, Fish, Poultry or Seafood Stores",0.0,0.10526315789473684,15224
+15300,"Medical, Hospital and Surgical Equipment and Supplies--Rented to Others",1.0,0.20155038759689922,15300
+15314,"Medical, Hospital and Surgical Supply Stores",1.0,0.27450980392156865,15314
+15404,Metal Dealers or Distributors--Nonstructural,0.0,0.21568627450980393,15404
+15405,Metal Dealers or Distributors--Structural,0.0,0.20202020202020202,15405
+15406,Metal Scrap Dealers,0.0,0.23376623376623376,15406
+15488,Mobile Home Sales Agencies,0.0,0.21428571428571427,15488
+15538,Musical Instrument Stores,0.0,0.1686746987951807,15538
+15600,Nail Salons,0.0,0.2318840579710145,15600
+15607,Newspaper or Magazine Distributors,0.0,0.2608695652173913,15607
+15608,Newsstands,1.0,0.2647058823529412,15608
+15656,"Nightclubs, Cabarets and Comedy Clubs",1.0,0.23157894736842105,15656
+15699,Nursery--Garden,0.0,0.136986301369863,15699
+15733,Oil Refineries,0.0,0.1388888888888889,15733
+15839,Optical Goods Stores,0.0,0.15384615384615385,15839
+15991,"Paint, Wallpaper or Wallcovering Stores",0.0,0.20618556701030927,15991
+15993,"Painting, Picture or Frame Stores",0.0,0.2857142857142857,15993
+16005,Paper Products Distributors,0.0,0.1411764705882353,16005
+16009,"Paper, Rag or Rubber Stock Dealers and Distributors--Secondhand",1.0,0.2644628099173554,16009
+16402,Pet Grooming,0.0,0.22857142857142856,16402
+16403,Pet Stores,0.0,0.08823529411764706,16403
+16404,Pet Training,1.0,0.2857142857142857,16404
+16471,Photographers,0.0,0.19718309859154928,16471
+16501,Plastic or Rubber Supply Goods Distributors,0.0,0.21782178217821782,16501
+16527,Plumbing Supplies and Fixtures Dealers and Distributors,1.0,0.24778761061946902,16527
+16588,Printers or Electrotypers Supplies--Distributors,0.0,0.24528301886792453,16588
+16604,Produce Handling or Packing,1.0,0.4,16604
+16670,Racquet Sports and Handball Facilities--Commercially Operated,1.0,0.2857142857142857,16670
+16676,Music Stores--Pre-Recorded,0.0,0.21428571428571427,16676
+16694,Recreational Vehicle Dealers,0.0,0.18604651162790697,16694
+16705,Refrigeration Equipment--Dealers and Distributors Only--Commercial,1.0,0.2903225806451613,16705
+16722,Rental Stores,0.0,0.14084507042253522,16722
+16723,Rental Stores--Machinery or Equipment--Rented to Others on a Long-Term Basis,0.0,0.16417910447761194,16723
+16750,Internet Retailers,0.0,0.2894736842105263,16750
+16751,Internet Auctions,0.0,0.24,16751
+16819,Restaurants--Operated by Concessionaires--Other Than Not-For-Profit,0.0,0.048,16819
+16820,Restaurants--Operated by Concessionaires--Not-For-Profit Only,0.0,0.11764705882352941,16820
+16881,Secondhand or Salvage Dealers and Distributors,1.0,0.19230769230769232,16881
+16890,"Seed Merchants--Excluding Erroneous Delivery, Error in Mixture and Germination Failure",1.0,0.2638888888888889,16890
+16891,"Seed Merchants--Erroneous Delivery, Error in Mixture and Resulting Germination Failure",1.0,0.3611111111111111,16891
+16892,"Seed Merchants--Erroneous Delivery, and Error in Mixture (Excluding Germination Failure)",1.0,0.2876712328767123,16892
+16900,Restaurants--with No Sale of Alcoholic Beverages--with Table Service,1.0,0.25396825396825395,16900
+16901,Restaurants--with No Sale of Alcoholic Beverages--without Table Service with Seating,1.0,0.23943661971830985,16901
+16902,Restaurants--with No Sale of Alcoholic Beverages--without Seating,1.0,0.2601626016260163,16902
+16910,Restaurants--with Sale of Alcoholic Beverages that are Less Than 30% of the Annual Receipts of the Restaurants--with Table Service,1.0,0.26595744680851063,16910
+16911,Restaurants--with Sale of Alcoholic Beverages that are Less Than 30% of the Annual Receipts of the Restaurants--without Table Service with Seating,1.0,0.21568627450980393,16911
+16915,Restaurants--with Sale of Alcoholic Beverages that are 30% or More of But Less Than 75% of the Total Annual Receipts of the Restaurants--with Dance Floor,1.0,0.23696682464454977,16915
+16916,Restaurants--with Sale of Alcoholic Beverages that are 30% or More of But Less Than 75% of the Total Annual Receipts of the Restaurants--without Dance Floor,1.0,0.2336448598130841,16916
+16920,Restaurants--with Sale of Alcoholic Beverages that are 75% or More of Total Annual Receipts of the Restaurants--with Tables--with Dance Floor: Table Service,1.0,0.2336448598130841,16920
+16921,Restaurants--with Sale of Alcoholic Beverages that are 75% or More of Total Annual Receipts of the Restaurants--with Tables--with Dance Floor: No Table Service,1.0,0.2304147465437788,16921
+16930,Restaurants--with Sale of Alcoholic Beverages that are 75% or More of Total Annual Receipts of the Restaurants--with Tables--without Dance Floor: Table Service,1.0,0.2304147465437788,16930
+16931,Restaurants--with Sale of Alcoholic Beverages that are 75% or More of Total Annual Receipts of the Restaurants--with Tables--without Dance Floor: No Table Service,1.0,0.22727272727272727,16931
+16940,Restaurants--with Sale of Alcoholic Beverages that are 75% or More of Total Annual Receipts of the Restaurants--Bar Service Only (No Tables): with Dance Floor,1.0,0.19444444444444445,16940
+16941,Restaurants--with Sale of Alcoholic Beverages that are 75% or More of Total Annual Receipts of the Restaurants--Bar Service Only (No Tables): without Dance Floor,1.0,0.2100456621004566,16941
+18078,Ship Chandler Stores,1.0,0.2564102564102564,18078
+18109,Shoe Repair Shops,0.0,0.24,18109
+18110,Shoe Stores,0.0,0.08695652173913043,18110
+18200,Spas or Personal Enhancement Facilities,1.0,0.3711340206185567,18200
+18205,Sporting Goods or Athletic Equipment Distributors,0.0,0.18691588785046728,18205
+18206,Sporting Goods or Athletic Equipment Stores,0.0,0.19801980198019803,18206
+18335,Stationery or Paper Products Stores,0.0,0.27956989247311825,18335
+18435,Stores--Food or Drink--Other Than Not-For-Profit,0.0,0.05660377358490566,18435
+18436,Stores--Food or Drink--Not-For-Profit Only,0.0,0.14,18436
+18437,Stores: Retail NOC,0.0,0.2631578947368421,18437
+18438,Stores--No Food or Drink--Not-For-Profit Only,0.0,0.13592233009708737,18438
+18501,Supermarkets,0.0,0.17142857142857143,18501
+18506,Tailor Merchants--Men or Boys,0.0,0.25287356321839083,18506
+18507,Tailoring or Dressmaking Establishments--Custom,0.0,0.24761904761904763,18507
+18570,Tattoo Parlors,0.0,0.25,18570
+18575,Telecommunication Equipment Providers,0.0,0.25263157894736843,18575
+18616,Tire Dealers,0.0,0.22857142857142856,18616
+18707,Tobacco Products Distributors,0.0,0.20689655172413793,18707
+18708,Tobacco Products Stores,0.0,0.07407407407407407,18708
+18833,Toy Distributors,0.0,0.24324324324324326,18833
+18834,Toy Stores,0.0,0.08823529411764706,18834
+18911,Variety Stores--Other Than Not-For-Profit,0.0,0.06060606060606061,18911
+18912,Variety Stores--Not-For-Profit Only,0.0,0.15053763440860216,18912
+18920,Video Stores,0.0,0.11428571428571428,18920
+18991,Warehouses--Mini-Warehouses,0.0,0.18823529411764706,18991
+19007,"Washing Machines, Dryers or Ironers--Coin Meter Type",0.0,0.2,19007
+19051,Water Softening Equipment--Rented to Others,0.0,0.27722772277227725,19051
+19061,Portable Toilet Rentals,0.0,0.24691358024691357,19061
+19795,Trailer Dealers,0.0,0.2465753424657534,19795
+19796,Trailer Rental Agencies,0.0,0.2962962962962963,19796
+40005,Adult Day Care--Not-For-Profit Only,0.0,0.15053763440860216,40005
+40006,Adult Day Care--Other Than Not-For-Profit,0.0,0.06060606060606061,40006
+40010,Airports--Commercial,0.0,0.1794871794871795,40010
+40015,Airports--Private,0.0,0.13333333333333333,40015
+40020,Airport Control Towers--Not Operated Exclusively by the Federal Aviation Administration,0.0,0.2620689655172414,40020
+40026,"Airport--Lessees of Portions of Airports Engaged in the Sale of Aircraft or Accessories, Servicing or Repairing of Aircraft or Pilot Instructions",0.0,0.19704433497536947,40026
+40031,"Ambulance Service, First Aid or Rescue Squads--Other Than Not-For-Profit",0.0,0.046153846153846156,40031
+40032,"Ambulance Service, First Aid or Rescue Squads--Not-For-Profit Only",0.0,0.11290322580645161,40032
+40040,Amusement Devices,0.0,0.08,40040
+40041,Amusement Devices--Operated in Connection with Carnivals or Fairs--Other Than Not-For-Profit,1.0,0.2,40041
+40042,Amusement Devices--Operated in Connection with Carnivals or Fairs--Not-For-Profit Only,1.0,0.25,40042
+40045,Animals--Draft,0.0,0.1111111111111111,40045
+40046,Animals--Saddle--for Rent,0.0,0.1686746987951807,40046
+40047,Animals--Saddle--Private,0.0,0.17073170731707318,40047
+40059,Athletic Games Sponsored by the Insured--Other Than Not-For-Profit,0.0,0.04838709677419355,40059
+40061,Athletic Games Sponsored by the Insured--Not-For-Profit Only,0.0,0.11864406779661017,40061
+40063,Athletic or Sports Contests--in Buildings--Lessees--Other Than Not-For-Profit,0.0,0.044444444444444446,40063
+40064,Athletic or Sports Contests--in Buildings--Lessees--Not-For-Profit Only,0.0,0.10852713178294573,40064
+40066,Athletic Programs--Amateur--Other Than Not-For-Profit,0.0,0.05405405405405406,40066
+40067,Athletic Programs--Amateur--Not-For-Profit Only,0.0,0.13333333333333333,40067
+40069,Athletic Teams--Professional or Semi-Professional,0.0,0.22429906542056074,40069
+40072,Beaches--Bathing--Not Commercially Operated,0.0,0.15841584158415842,40072
+40075,Bingo Games--in Public Halls or Theaters--Commercially Operated,0.0,0.18181818181818182,40075
+40101,Blood Banks--Other Than Not-For-Profit,0.0,0.0625,40101
+40102,Blood Banks--Not-For-Profit Only,0.0,0.15555555555555556,40102
+40111,Boats--Canoes or Rowboats--Not for Rent--Not Equipped with Motors,1.0,0.2926829268292683,40111
+40115,Boats--Motor or Sail--Not for Rent,0.0,0.10869565217391304,40115
+40117,Boats--Not for Rent,0.0,0.12987012987012986,40117
+40140,Boats--Nonowned over 26 Feet,0.0,0.13953488372093023,40140
+41001,Boy or Girl Scout Councils,0.0,0.16666666666666666,41001
+41210,Bus Stations or Terminals,0.0,0.3132530120481928,41210
+41421,Camps--For-Profit,0.0,0.08,41421
+41422,Camps--Not-For-Profit,0.0,0.0759493670886076,41422
+41510,Caves--Tourist Attraction,0.0,0.2891566265060241,41510
+41603,Cemeteries--Other Than Not-For-Profit,0.0,0.06315789473684211,41603
+41604,Cemeteries--Not-For-Profit Only,0.0,0.15730337078651685,41604
+41650,Churches or Other Houses of Worship,0.0,0.25806451612903225,41650
+41664,Clubs--Horseback Riding--No Commercial Riding Instructions,0.0,0.2413793103448276,41664
+41665,Clubs--Racket Sports and Handball,1.0,0.3076923076923077,41665
+41666,Clubs--Swimming,0.0,0.1917808219178082,41666
+41667,"Clubs--Civic, Service or Social--Having Buildings or Premises Owned or Leased--Other Than Not-For-Profit",0.0,0.1728395061728395,41667
+41668,"Clubs--Civic, Service or Social--Having Buildings or Premises Owned or Leased--Not-For-Profit Only",0.0,0.1794871794871795,41668
+41670,"Clubs--Civic, Service or Social--No Buildings or Premises Owned or Leased Except for Office Purposes--Not-For-Profit Only",0.0,0.0782122905027933,41670
+41672,Conventions (Sponsor's Risk Only)--Other Than Not-For-Profit,0.0,0.05084745762711865,41672
+41673,Conventions (Sponsor's Risk Only)--Not-For-Profit Only,0.0,0.125,41673
+41675,Computer Consulting or Programming,0.0,0.3695652173913043,41675
+41677,Consultants,0.0,0.11594202898550725,41677
+41678,Community Recreational Facilities--Not Operated by Governmental Agency,0.0,0.34375,41678
+41679,Cotton Gin Operations--Other Than Those Performed for a Fee Per Bale,0.0,0.2857142857142857,41679
+41680,Convents or Monasteries,0.0,0.19753086419753085,41680
+41696,Crematories--Other Than Not-For-Profit,0.0,0.0625,41696
+41697,Crematories--Not-For-Profit Only,0.0,0.15555555555555556,41697
+41700,"Dam, Levee or Dike--Existence Hazard Only",0.0,0.24242424242424243,41700
+41715,Day Care Centers--Other Than Not-For-Profit,0.0,0.0594059405940594,41715
+41716,Camps--Not-For-Profit Only,0.0,0.16666666666666666,41716
+43007,Drawbridges--Existence Hazard Only,0.0,0.2608695652173913,43007
+43117,Dude Ranches,0.0,0.08571428571428572,43117
+43151,Computer Data Processing--Operations,0.0,0.2553191489361702,43151
+43152,Computer Data Processing--Time Sharing,0.0,0.2708333333333333,43152
+43200,Employment Agencies,0.0,0.07792207792207792,43200
+43215,Entertainment Performed on Others' Premises,0.0,0.33663366336633666,43215
+43421,Exhibitions--Outside--In Stadiums or on Premises Having Grandstands or Bleachers Not Erected by or for Insured--Ushers or Other Attendants in Stands Not Provided by Insured,1.0,0.20869565217391303,43421
+43422,Exhibitions--Outside--In Stadiums or on Premises Having Grandstands or Bleachers Not Erected by or for the Insured--Ushers or Other Attendants in Stands Provided by the Insured,1.0,0.21367521367521367,43422
+43424,Exhibitions--Outside--No Stadiums or Grandstands,1.0,0.2830188679245283,43424
+43470,Pest Control Services,0.0,0.17721518987341772,43470
+43517,Fair Grounds--Nonoperating Season,0.0,0.4175824175824176,43517
+43518,Fairs--Outside (Operator's Risk Only),0.0,0.29473684210526313,43518
+43550,Fire Departments--Other Than Volunteer,0.0,0.3125,43550
+43551,Fire Departments--Volunteer,0.0,0.16470588235294117,43551
+43626,Fireworks Exhibitions--Contractor's Risk Only,0.0,0.34951456310679613,43626
+43628,Fireworks Exhibitions--Sponsor's Risk Only--Other Than Not-For-Profit,0.0,0.047244094488188976,43628
+43629,Fireworks Exhibitions--Sponsor's Risk Only--Not-For-Profit Only,0.0,0.11570247933884298,43629
+43754,Fishing Piers,0.0,0.3380281690140845,43754
+43760,Fishing Ponds or Lakes--Commercially Operated,0.0,0.2912621359223301,43760
+43822,Forestry Service,0.0,0.24324324324324326,43822
+43840,Fruit or Vegetable--Harvesting Contractors,0.0,0.26,43840
+43860,Fumigating,0.0,0.17647058823529413,43860
+43889,Funeral Homes or Chapels,0.0,0.24390243902439024,43889
+43945,Garbage or Refuse Dumps,0.0,0.07407407407407407,43945
+43946,"Garbage Works--Separation for Recycling, Reduction or Incineration",0.0,0.25806451612903225,43946
+43990,Gambling--Casinos,0.0,0.24,43990
+43991,Gambling--Incidental to Other Operations,0.0,0.24489795918367346,43991
+44009,Gasoline or Oil Supply Stations--Retail--(Lessor's Risk Only),0.0,0.20168067226890757,44009
+44010,Gasoline Recovery--from Casing Head or Natural Gas,0.0,0.4074074074074074,44010
+44069,Golf Courses--Miniature,0.0,0.19753086419753085,44069
+44070,Golf Courses--Municipal or Public--Not Golf or Country Clubs,0.0,0.2033898305084746,44070
+44071,Golf Driving Ranges,0.0,0.2597402597402597,44071
+44072,Golfmobiles--Loaned or Rented to Others,0.0,0.24742268041237114,44072
+44100,"Governmental: Municipalities--Population under 2,500",0.0,0.23636363636363636,44100
+44101,"Governmental: Municipalities--Population 2,501-10,000",0.0,0.21621621621621623,44101
+44102,"Governmental: Municipalities--Population 10,001-25,000",0.0,0.21428571428571427,44102
+44103,"Governmental: Municipalities--Population 25,001-50,000",0.0,0.21428571428571427,44103
+44104,"Governmental: Municipalities--Population 50,001-100,000",0.0,0.21238938053097345,44104
+44105,Governmental: Municipalities,0.0,0.20930232558139536,44105
+44106,"Governmental: Municipalities--Population over 250,000",0.0,0.1981981981981982,44106
+44108,"Governmental: Counties or Parishes--Population under 10,000",0.0,0.23931623931623933,44108
+44109,"Governmental: Counties or Parishes--Population 10,001-25,000",0.0,0.23728813559322035,44109
+44110,"Governmental: Counties or Parishes--Population 25,001-50,000",0.0,0.23728813559322035,44110
+44111,"Governmental: Counties or Parishes--Population 50,001-100,000",0.0,0.23529411764705882,44111
+44112,"Governmental: Counties or Parishes--Population 100,001-250,000",0.0,0.23333333333333334,44112
+44113,"Governmental: Counties or Parishes--Population over 250,000",0.0,0.23931623931623933,44113
+44193,Grandstands or Bleachers--Other Than Not-For-Profit,1.0,0.05504587155963303,44193
+44194,Grandstands or Bleachers--Not-For-Profit Only,1.0,0.13592233009708737,44194
+44222,Guides or Outfitters,0.0,0.1794871794871795,44222
+44276,Halls--Other Than Not-For-Profit,0.0,0.06666666666666667,44276
+44277,Halls--Not-For-Profit Only,0.0,0.16666666666666666,44277
+44280,"Event, Party or Wedding Planners",0.0,0.35555555555555557,44280
+44311,Health or Exercise Clubs,0.0,0.3170731707317073,44311
+44315,Health or Exercise Facilities--Commercially Operated,0.0,0.3090909090909091,44315
+44427,Health Care Facilities--Alcohol and Drug--Other Than Not-For-Profit,1.0,0.368,44427
+44428,Health Care Facilities--Alcohol and Drug--Not-For-Profit Only,1.0,0.3865546218487395,44428
+44429,Health Care Facilities--Convalescent or Nursing Homes--Not Mental--Psychopathic Institutions--Other Than Not-For-Profit,0.0,0.2711864406779661,44429
+44430,Health Care Facilities--Convalescent or Nursing Homes--Not Mental--Psychopathic Institutions--Not-For-Profit Only,0.0,0.26900584795321636,44430
+44431,Health Care Facilities--Homes for the Aged--Other Than Not-For-Profit,0.0,0.2047244094488189,44431
+44432,Health Care Facilities--Homes for the Aged--Not-For-Profit Only,0.0,0.2809917355371901,44432
+44433,Health Care Facilities--Homes for the Physically Handicapped or Orphaned--Other Than Not-For-Profit,1.0,0.3184713375796178,44433
+44434,Health Care Facilities--Homes for the Physically Handicapped or Orphaned--Not-For-Profit Only,1.0,0.2913907284768212,44434
+44435,Health Care Facilities--Hospitals Other Than Not-For-Profit,0.0,0.2905982905982906,44435
+44436,Health Care Facilities--Hospitals Not-For-Profit Only,0.0,0.34234234234234234,44436
+44437,Health Care Facilities--Mental--Psychopathic Institutions--Other Than Not-For-Profit,0.0,0.2676056338028169,44437
+44438,Health Care Facilities--Mental--Psychopathic Institutions--Not-For-Profit Only,0.0,0.29411764705882354,44438
+44439,"Health Care Facilities--Clinics, Dispensaries or Infirmaries Treating Outpatients Only--No Regular Bed and Board Facilities--Other Than Not-For-Profit",1.0,0.2980769230769231,44439
+44440,"Health Care Facilities--Clinics, Dispensaries or Infirmaries Treating Outpatients Only--No Regular Bed and Board Facilities--Not-For-Profit Only",1.0,0.3069306930693069,44440
+44500,Home Health Care Services--Not-For-Profit Only,0.0,0.1346153846153846,44500
+44501,Home Health Care Services--Other Than Not-For-Profit,0.0,0.05454545454545454,44501
+45190,Hotels and Motels--with Pools or Beaches--Less Than Four Stories,2.0,0.29508196721311475,45190
+45191,Hotels and Motels--with Pools or Beaches--Four Stories or More,2.0,0.3,45191
+45192,Hotels and Motels--without Pools or Beaches--Less Than Four Stories,2.0,0.224,45192
+45193,Hotels and Motels--without Pools or Beaches--Four Stories or More,2.0,0.22764227642276422,45193
+45210,Bed and Breakfasts,1.0,0.21052631578947367,45210
+45224,Hunting Preserves--Other Than Not-For-Profit,0.0,0.23529411764705882,45224
+45225,Hunting Preserves--Not-For-Profit Only,0.0,0.25,45225
+45334,Insurance Agents,0.0,0.2972972972972973,45334
+45380,Junk Dealers,0.0,0.2,45380
+45450,"Kennels--Breeding, Boarding or Sales",0.0,0.2978723404255319,45450
+45523,Lakes or Reservoirs--Existence Hazard Only--Other Than Not-For-Profit,0.0,0.047244094488188976,45523
+45524,Lakes or Reservoirs--Existence Hazard Only--Not-For-Profit Only,0.0,0.11570247933884298,45524
+45539,Land--Occupied by Persons Other Than the Insured for Business Purposes--(Lessor's Risk Only),1.0,0.21333333333333335,45539
+45678,Laundries and Dry Cleaning Plants,1.0,0.3516483516483517,45678
+45771,Livestock Sales Companies,0.0,0.26506024096385544,45771
+45819,Lumberyards,0.0,0.14492753623188406,45819
+45900,Mail Order or Online Drug Stores,0.0,0.2222222222222222,45900
+45901,Mail Order Houses,0.0,0.08,45901
+45937,Mailing or Addressing Companies,0.0,0.3146067415730337,45937
+45993,Manufacturers' Representatives,0.0,0.2727272727272727,45993
+46004,Mausoleums--Other Than Not-For-Profit,0.0,0.06315789473684211,46004
+46005,Mausoleums--Not-For-Profit Only,0.0,0.15730337078651685,46005
+46112,Diagnostic Testing Laboratories,0.0,0.2696629213483146,46112
+46202,Mobile Home Parks or Courts,0.0,0.18823529411764706,46202
+46362,Model Homes,0.0,0.057971014492753624,46362
+46426,Museums--Other Than Not-For-Profit,0.0,0.06521739130434782,46426
+46427,Museums--Not-For-Profit Only,0.0,0.16279069767441862,46427
+46510,Oil or Gas Wells--Non-Operating Working Interest,0.0,0.3018867924528302,46510
+46590,Parades,0.0,0.06153846153846154,46590
+46603,Parking--Public--Not Open Air,0.0,0.1839080459770115,46603
+46604,Parking--Public--Open Air,0.0,0.1927710843373494,46604
+46606,Parking--Public--Shopping Centers--Maintained by Lessee (Lessor's Risk Only),0.0,0.26865671641791045,46606
+46607,Parking--Public--Shopping Centers--Maintained by the Insured (Lessor's Risk Only),0.0,0.2589928057553957,46607
+46622,Parking--Private,0.0,0.1891891891891892,46622
+46671,Parks or Playgrounds,0.0,0.28205128205128205,46671
+46700,Penal Institutions,0.0,0.21052631578947367,46700
+46773,Picnic Grounds--Commercially Operated,0.0,0.3157894736842105,46773
+46822,Political Campaign Headquarters or Offices,0.0,0.2,46822
+46881,Professional and Trade Associations--No Buildings or Premises Owned or Leased Except as Offices--Other Than Not-For-Profit,1.0,0.2111111111111111,46881
+46882,Professional and Trade Associations--No Buildings or Premises Owned or Leased Except as Offices--Not-For-Profit Only,1.0,0.21839080459770116,46882
+46911,Race Tracks--Motorized Vehicles--Operators,0.0,0.26,46911
+46912,Race Tracks--Operators,0.0,0.25,46912
+46913,Race Tracks--Motorized Vehicles--Lessor's Risk Only,0.0,0.25688073394495414,46913
+46914,Racing--Lessor's Risk Only,0.0,0.2619047619047619,46914
+46915,Race Tracks--Motorized Vehicles--Sponsor's Risk Only,0.0,0.2545454545454545,46915
+46916,Racing--Sponsor's Risk Only,0.0,0.23529411764705882,46916
+47050,Real Estate Agents,0.0,0.15789473684210525,47050
+47051,Real Estate Development Property,0.0,0.24444444444444444,47051
+47052,Real Estate Property Managed,0.0,0.20930232558139536,47052
+47103,Recording Studios,0.0,0.24,47103
+47146,Recycling Collection Centers--Other Than Not-For-Profit,0.0,0.3008849557522124,47146
+47147,Recycling Collection Centers--Not-For-Profit Only,0.0,0.2803738317757009,47147
+47221,Riding Academies,0.0,0.24324324324324326,47221
+47253,Rifle or Pistol Ranges--Indoor,0.0,0.22727272727272727,47253
+47254,Rifle or Pistol Ranges,0.0,0.15,47254
+47318,Rodeos,0.0,0.15625,47318
+47367,Sales or Service Organizations,0.0,0.22727272727272727,47367
+47420,Saunas and Baths--Public,1.0,0.24390243902439024,47420
+47468,Schools--Correspondence,0.0,0.19753086419753085,47468
+47469,Schools--Faculty Liability for Corporal Punishment of Students,0.0,0.3333333333333333,47469
+47471,"Schools--Public--Elementary, Kindergarten or Junior High",0.0,0.3157894736842105,47471
+47473,Schools--Public--High,0.0,0.20253164556962025,47473
+47474,Schools--Trade or Vocational,0.0,0.23255813953488372,47474
+47475,"Schools--Private--Elementary, Kindergarten or Junior High--Other Than Not-For-Profit",0.0,0.04225352112676056,47475
+47476,"Schools--Private--Elementary, Kindergarten or Junior High--Not-For-Profit Only",0.0,0.10294117647058823,47476
+47477,Schools--Private--High--Other Than Not-For-Profit,0.0,0.056074766355140186,47477
+47478,Schools--Private--High--Not-For-Profit Only,0.0,0.13861386138613863,47478
+47610,Internet Service Providers,0.0,0.30952380952380953,47610
+48039,Sewers,0.0,0.15625,48039
+48177,Skating Rinks--Ice,0.0,0.21052631578947367,48177
+48178,Skating Rinks--Roller,0.0,0.20253164556962025,48178
+48206,Skeet Shooting or Trap Shooting Ranges,0.0,0.3333333333333333,48206
+48252,"Ski Lifts, Tows or Runs",0.0,0.24691358024691357,48252
+48441,Soap Box Derbies,0.0,0.08108108108108109,48441
+48557,Social Gatherings and Meetings--on Premises Not Owned or Operated by the Insured--Other Than Not-For-Profit,1.0,0.2909090909090909,48557
+48558,Social Gatherings and Meetings--on Premises Not Owned or Operated by the Insured--Not-For-Profit Only,1.0,0.2893081761006289,48558
+48600,Social Services--Consulting Services Only--Operated by the Private Sector,0.0,0.24427480916030533,48600
+48610,Sports or Outdoor Activities--Commercially Operated,0.0,0.25688073394495414,48610
+48636,Stockyards,0.0,0.058823529411764705,48636
+48637,Stadiums--Operated by Insured--Other Than Not-For-Profit,0.0,0.05263157894736842,48637
+48638,Stadiums--Operated by Insured--Not-For-Profit Only,0.0,0.12962962962962962,48638
+48727,"Streets, Roads, Highways or Bridges--Existence and Maintenance Hazard Only",1.0,0.22727272727272727,48727
+48808,Sun Tanning Salons,0.0,0.3157894736842105,48808
+48924,Swimming Pools--Commercially Operated,0.0,0.2736842105263158,48924
+48925,Swimming Pools,0.0,0.25,48925
+49005,Taxidermists,0.0,0.14285714285714285,49005
+49111,Tents or Canopies--Loaned or Rented to Others,0.0,0.21359223300970873,49111
+49181,Theaters--Drive-In,0.0,0.21052631578947367,49181
+49183,Theaters--Motion Pictures,0.0,0.24096385542168675,49183
+49184,Theaters--Other Than Not-For-Profit Only,0.0,0.14285714285714285,49184
+49185,Theaters--Not-For-Profit Only,0.0,0.16091954022988506,49185
+49239,Tire--Retreading or Recapping,0.0,0.3448275862068966,49239
+49292,Toll Bridges,0.0,0.08571428571428572,49292
+49305,Towers--Telecommunication--Existence Hazard Only (Lessors Risk Only),0.0,0.19047619047619047,49305
+49333,Travel Agency Tours,0.0,0.23376623376623376,49333
+49451,Vacant Land--Other Than Not-For-Profit,1.0,0.0625,49451
+49452,Vacant Land--Not-For-Profit Only,1.0,0.15555555555555556,49452
+49617,"Vending Machine Operations--Confection, Food, Beverage or Ice",0.0,0.18487394957983194,49617
+49618,Vending Machine Operations--Tobacco Products,0.0,0.19607843137254902,49618
+49619,Vending Machine Operations,0.0,0.23809523809523808,49619
+49763,Warehouse--Cold Individual Storage Lockers,0.0,0.26,49763
+49800,Wharf and Waterfront Property--Ferry Docks or Terminals,1.0,0.24778761061946902,49800
+49801,Wharf and Waterfront Property--Occupied by the Insured for Both Freight and Passenger Purposes,1.0,0.2894736842105263,49801
+49802,Wharf and Waterfront Property--Not Occupied by the Insured (Lessor's Risk Only),1.0,0.1897810218978102,49802
+49803,Wharf and Waterfront Property--Occupied by the Insured for Freight Purposes Exclusively,1.0,0.20689655172413793,49803
+49840,Window Decorating,0.0,0.24,49840
+49870,"YMCA, YWCA or Similar Institutions",0.0,0.10869565217391304,49870
+49890,Youth Recreation Programs--Other Than Not-For-Profit,0.0,0.05454545454545454,49890
+49891,Youth Recreation Programs--Not-For-Profit Only,0.0,0.1346153846153846,49891
+49902,Zoos--Other Than Not-For-Profit,0.0,0.06741573033707865,49902
+49903,Zoos--Not-For-Profit Only,0.0,0.1686746987951807,49903
+50010,Abrasive Wheel Mfg.,0.0,0.23376623376623376,50010
+50015,Abrasives or Abrasive Products Mfg.--Artificial,0.0,0.11428571428571428,50015
+50017,Abrasives or Abrasive Products Mfg.,0.0,0.15053763440860216,50017
+50045,Adhesive Mfg.,0.0,0.14084507042253522,50045
+50047,Adhesive Tape Mfg.,0.0,0.2631578947368421,50047
+51001,Aerosol Container Mfg.,0.0,0.325,51001
+51005,Aerosol Containers--Filling or Charging for Others,0.0,0.3333333333333333,51005
+51116,Air Conditioning Equipment Mfg.,0.0,0.2696629213483146,51116
+51201,Aircraft or Aircraft Parts Mfg.,0.0,0.15730337078651685,51201
+51205,Alarm Mfg.--Burglar,0.0,0.1038961038961039,51205
+51206,Alarm Mfg.--Fire or Smoke,0.0,0.14457831325301204,51206
+51210,Alcohol Mfg.--Not Beverage,0.0,0.16666666666666666,51210
+51211,Ammunition Mfg.,0.0,0.1917808219178082,51211
+51220,Appliances and Accessories Mfg.--Commercial--Gas,1.0,0.2641509433962264,51220
+51221,Appliances and Accessories Mfg.--Commercial--Not Gas,1.0,0.2727272727272727,51221
+51222,Appliances and Accessories Mfg.--Household--Gas,1.0,0.24761904761904763,51222
+51224,Appliances and Accessories Mfg.--Household--Not Gas,1.0,0.25688073394495414,51224
+51230,Asbestos Goods Mfg.,0.0,0.15584415584415584,51230
+51240,Asphalt or Tar Distilling or Refining,0.0,0.2736842105263158,51240
+51241,Asphalt Works,0.0,0.14084507042253522,51241
+51250,"Automobile, Bus and Truck Body Mfg.",1.0,0.3010752688172043,51250
+51251,"Automobile, Bus or Truck Parts Mfg.--Brakes or Brake Linings",0.0,0.2542372881355932,51251
+51252,"Automobile, Bus or Truck Parts Mfg.--Not Operating Parts",0.0,0.2982456140350877,51252
+51253,"Automobile, Bus or Truck Parts Mfg.--Operating Parts",0.0,0.2909090909090909,51253
+51254,"Automobile, Bus or Truck Parts Mfg.--Passenger Restraining Devices",1.0,0.25806451612903225,51254
+51255,Automobile Mfg. or Assembling,0.0,0.16091954022988506,51255
+51305,Baby Food Mfg.,0.0,0.16666666666666666,51305
+51315,Bakery Plants,0.0,0.19718309859154928,51315
+51330,Battery Mfg.--Dry Cell,0.0,0.2,51330
+51333,Battery Mfg.--Wet Cell or Storage,0.0,0.2857142857142857,51333
+51340,Bearing Mfg.,0.0,0.22857142857142856,51340
+51350,"Beer, Ale or Malt Liquor Mfg.--In Bottles",0.0,0.10101010101010101,51350
+51351,"Beer, Ale or Malt Liquor Mfg.--In Cans",0.0,0.25,51351
+51352,"Beer, Ale or Malt Liquor Mfg.--Not Bottled or Canned",0.0,0.09090909090909091,51352
+51355,Beverage Bottler--Soft Drinks--Carbonated--In Cans or Plastic Bottles,0.0,0.23622047244094488,51355
+51356,Beverage Bottler--Soft Drinks--Carbonated--In Glass Bottles,0.0,0.17094017094017094,51356
+51357,Beverage Bottler--Soft Drinks--In Metal Cylinders,0.0,0.2803738317757009,51357
+51358,Beverage Bottler--Soft Drinks--In Paper Containers,0.0,0.16666666666666666,51358
+51359,Beverage Bottler--Soft Drinks--Not Carbonated--In Bottles or Cans,0.0,0.2764227642276423,51359
+51370,Bicycle Mfg.--Not Motorized,0.0,0.09411764705882353,51370
+51380,Billiard or Pool Table Mfg.,0.0,0.23529411764705882,51380
+51400,Boat or Ship Building--Inboard and Inboard/Outboard,1.0,0.27522935779816515,51400
+51401,Boat or Ship Building--without Motors,1.0,0.3157894736842105,51401
+51500,"Bolt, Nut, Rivet, Screw or Washer Mfg.",0.0,0.22916666666666666,51500
+51516,Bookbinding--Other Than Not-For-Profit,0.0,0.0625,51516
+51517,Bookbinding--Not-For-Profit Only,0.0,0.15555555555555556,51517
+51550,Bottle and Jar Mfg.--Glass--Not for Use under Pressure,1.0,0.17857142857142858,51550
+51551,Bottle and Jar Mfg.--Glass--for Use under Pressure--Nonreturnable,1.0,0.22764227642276422,51551
+51552,Bottle and Jar Mfg.--Glass--for Use under Pressure--Returnable,1.0,0.21666666666666667,51552
+51553,Bottle and Jar Mfg.--Plastic--Nonreturnable,1.0,0.25742574257425743,51553
+51554,Bottle and Jar Mfg.--Plastic--Returnable,1.0,0.2653061224489796,51554
+51575,Boxes or Containers Mfg.--Corrugated or Fiberboard,0.0,0.2962962962962963,51575
+51576,Boxes or Containers Mfg.--Wood,0.0,0.29545454545454547,51576
+51600,Brick Mfg.,0.0,0.058823529411764705,51600
+51613,Brush or Broom Mfg.,0.0,0.18181818181818182,51613
+51625,Bus Mfg. or Assembling or Reconstruction,0.0,0.30612244897959184,51625
+51666,Buttons or Fasteners Mfg.,0.0,0.3132530120481928,51666
+51702,Camper Bodies or Camper Trailers Mfg.,0.0,0.3368421052631579,51702
+51703,Campers Mfg.--Self-Powered,0.0,0.14285714285714285,51703
+51734,Can Mfg.--Metal,0.0,0.1917808219178082,51734
+51741,Candle Mfg.,1.0,0.17391304347826086,51741
+51752,Candy or Confectionery Products Mfg.,1.0,0.2765957446808511,51752
+51767,Carbon Paper or Inked Ribbon Mfg.,0.0,0.21978021978021978,51767
+51777,Carpet or Rug Mfg.,0.0,0.21052631578947367,51777
+51790,"Caulking Compounds, Putty or Similar Products Mfg.",0.0,0.2777777777777778,51790
+51796,Cellophane and Cellophane Products Mfg.,1.0,0.26804123711340205,51796
+51808,"Cement, Concrete Mix or Plaster Mfg.--Packaged",0.0,0.1346153846153846,51808
+51809,Cement or Plaster Mfg.--Bulk,0.0,0.18604651162790697,51809
+51833,Charcoal or Coal Briquette Mfg.,0.0,0.24719101123595505,51833
+51850,Chemical Mfg.--Commercial or Industrial,0.0,0.20618556701030927,51850
+51851,"Chemical Mfg.--Commercial or Industrial--Toxic and Either Flammable, Explosive or Reactive",1.0,0.32432432432432434,51851
+51852,"Chemical Mfg.--Commercial or Industrial--Primarily Flammable, Explosive or Reactive",0.0,0.14184397163120568,51852
+51853,Chemical Mfg.--Commercial or Industrial--Primarily Toxic or Presenting a Health Hazard,0.0,0.2361111111111111,51853
+51854,"Chemical Mfg.--Household--Toxic and Either Flammable, Explosive or Reactive",1.0,0.2857142857142857,51854
+51855,Chemical Mfg.--Household,0.0,0.17073170731707318,51855
+51856,"Chemical Mfg.--Household--Primarily Flammable, Explosive or Reactive",0.0,0.14285714285714285,51856
+51857,Chemical Mfg.--Household--Primarily Toxic or Presenting a Health Hazard,0.0,0.26356589147286824,51857
+51869,"China, Porcelain or Earthenware Mfg.",0.0,0.10638297872340426,51869
+51877,Clay Products Mfg.,0.0,0.13157894736842105,51877
+51889,Clock Mfg.,0.0,0.058823529411764705,51889
+51896,Clothing Mfg.,0.0,0.2535211267605634,51896
+51900,Coffins or Caskets Mfg.,0.0,0.24691358024691357,51900
+51909,Coke Mfg.,0.0,0.08955223880597014,51909
+51919,Color or Pigment Preparation,0.0,0.20930232558139536,51919
+51926,Communication or Recording Systems or Equipment Mfg.--Industrial or Commercial,0.0,0.27941176470588236,51926
+51927,Communication or Recording Systems or Equipment Mfg.--Other Than Industrial or Commercial,0.0,0.272108843537415,51927
+51934,Composition Goods Mfg.--Not Floor Coverings,0.0,0.2376237623762376,51934
+51941,Computer Mfg.,0.0,0.14084507042253522,51941
+51942,Computer Software Mfg.--Pre-Packaged,0.0,0.19148936170212766,51942
+51956,Concrete--Mixed in Transit,0.0,0.16666666666666666,51956
+51957,Concrete or Plaster Products Mfg.--Not Structural,0.0,0.24299065420560748,51957
+51958,Concrete Products Mfg.--Prestressed,0.0,0.12903225806451613,51958
+51959,Concrete Products Mfg.--Structural,0.0,0.2391304347826087,51959
+51960,Contact Lenses Mfg.,0.0,0.18181818181818182,51960
+51970,Cosmetics Mfg.,0.0,0.1388888888888889,51970
+51982,"Cotton Batting, Wadding or Waste Mfg.",0.0,0.25263157894736843,51982
+51985,Cotton Compressing,0.0,0.21052631578947367,51985
+51986,Cotton Gin Operations,0.0,0.3037974683544304,51986
+51999,Cutlery (Not Powered) and Flatware Mfg.,1.0,0.28865979381443296,51999
+52002,Dairy Products Mfg.,0.0,0.15584415584415584,52002
+52075,Detergent Mfg.--Household,0.0,0.12048192771084337,52075
+52076,Detergent Mfg.--Other Than Household,0.0,0.14893617021276595,52076
+52109,Dextrine Mfg.,0.0,0.16901408450704225,52109
+52134,Door or Window Mfg.--Other Than Wood,0.0,0.2553191489361702,52134
+52137,Die Casting Mfg.,0.0,0.1891891891891892,52137
+52150,Distillation or Extraction,0.0,0.30952380952380953,52150
+52315,Door or Window Mfg.--Wood,0.0,0.21686746987951808,52315
+52341,Drug Mfg.--Biological Products,0.0,0.20454545454545456,52341
+52342,"Drug, Medicine or Pharmaceutical Preparations Mfg.--for Animal Use",0.0,0.22580645161290322,52342
+52343,"Drug, Medicine or Pharmaceutical Preparations Mfg.--Other Than for Animal Use",0.0,0.26666666666666666,52343
+52401,Drums or Containers Mfg.--Metal,0.0,0.2696629213483146,52401
+52402,Drums or Containers Mfg.--Plastic,0.0,0.26373626373626374,52402
+52432,Electrical Equipment Mfg.--Other Than for Direct and Indirect Application to the Body,1.0,0.2517482517482518,52432
+52433,Electrical Equipment Mfg.--for Direct and Indirect Application to the Body,1.0,0.2878787878787879,52433
+52435,Electrical Generating Machinery Mfg.,0.0,0.3191489361702128,52435
+52438,"Electrical Parts, Components or Accessories Mfg.",0.0,0.16981132075471697,52438
+52440,Electrical Power Distribution or Transmission Equipment Mfg.,0.0,0.288135593220339,52440
+52467,Electrical Wire or Cable Mfg.,0.0,0.27586206896551724,52467
+52469,Electronic Components Mfg.,0.0,0.23809523809523808,52469
+52505,Electronic Games Mfg.,0.0,0.1518987341772152,52505
+52547,Electroplating,0.0,0.2222222222222222,52547
+52581,Elevator Mfg.,0.0,0.056338028169014086,52581
+52619,Engine or Turbine Mfg.--Not Aircraft,0.0,0.19148936170212766,52619
+52660,Engraving,0.0,0.208955223880597,52660
+52744,Escalator or Moving Sidewalk Mfg.,0.0,0.32967032967032966,52744
+52767,Exercise or Playground Equipment Mfg.,0.0,0.35789473684210527,52767
+52876,Explosive or Fireworks Mfg.,0.0,0.16470588235294117,52876
+52911,Extracts Mfg.,0.0,0.14084507042253522,52911
+52967,Eye Glass Lens Mfg.,0.0,0.15584415584415584,52967
+53001,Feed Mfg.,0.0,0.14925373134328357,53001
+53077,Fertilizer Mfg.,0.0,0.2465753424657534,53077
+53095,Fiber Mfg.--Other Than Synthetic,0.0,0.3333333333333333,53095
+53096,Fiber Mfg.--Synthetic,0.0,0.20253164556962025,53096
+53121,Fiberglass Mfg.,0.0,0.2191780821917808,53121
+53147,Fire Extinguishers Mfg.,0.0,0.2716049382716049,53147
+53229,Fire Suppression Systems Mfg.,0.0,0.22988505747126436,53229
+53271,Firearms Mfg.,0.0,0.19718309859154928,53271
+53333,"Floor Covering Mfg.--Not Carpets, Rugs, Ceramic or Stone Tiles",0.0,0.25,53333
+53374,Food Products Mfg.--Dry,0.0,0.2222222222222222,53374
+53375,Food Products Mfg.--Frozen,0.0,0.16666666666666666,53375
+53376,Food Products Mfg.--Not Dry--In Glass Containers,0.0,0.2641509433962264,53376
+53377,Food Products Mfg.--Not Dry--In Other Than Glass Containers,0.0,0.2564102564102564,53377
+53403,Forging Work,0.0,0.2,53403
+53425,Foundries,0.0,0.11940298507462686,53425
+53565,Fruit or Vegetable Juice Mfg.--No Bottling of Carbonated Beverages,0.0,0.2903225806451613,53565
+53631,Fur Garment Mfg.,0.0,0.16216216216216217,53631
+53632,Fur or Pelt Processing,0.0,0.2,53632
+53731,Furniture Mfg. or Assembling--Infants,0.0,0.2736842105263158,53731
+53732,Furniture Mfg. or Assembling--Other Than Wood,0.0,0.27184466019417475,53732
+53733,Furniture Mfg. or Assembling--Wood,0.0,0.2391304347826087,53733
+53734,"Furniture or Woodwork Stripping, Refinishing or Repairing--Shop Only",0.0,0.2222222222222222,53734
+53803,Galvanizing or Tinning,0.0,0.275,53803
+53901,"Gas Mfg.--Toxic and Either Flammable, Explosive or Reactive",1.0,0.2905982905982906,53901
+53902,Gas Mfg.--Inert,0.0,0.136986301369863,53902
+53903,Gas Mfg.--Other,0.0,0.1917808219178082,53903
+53904,"Gas Mfg.--Primarily Flammable, Explosive or Reactive",0.0,0.12727272727272726,53904
+53905,Gas Mfg.--Primarily Toxic or Presenting a Health Hazard,0.0,0.3008849557522124,53905
+53907,Gasoline Distributors,0.0,0.22784810126582278,53907
+54012,Gemstone Cutting or Polishing,0.0,0.41379310344827586,54012
+54077,Glass or Glassware Mfg.,0.0,0.19753086419753085,54077
+54444,Manufacturers,0.0,0.2535211267605634,54444
+55010,Heating Equipment Mfg.--Coal or Wood,0.0,0.2553191489361702,55010
+55011,Heating Equipment Mfg.--Electric,0.0,0.2222222222222222,55011
+55012,Heating Equipment Mfg.--Fuel Oil or Kerosene,0.0,0.21568627450980393,55012
+55013,Heating Equipment Mfg.--Gas or Liquefied Petroleum Gas,0.0,0.21428571428571427,55013
+55214,"Hone, Oilstone or Whetstone Mfg.",0.0,0.3111111111111111,55214
+55371,Honey Extracting,0.0,0.2702702702702703,55371
+55410,Importers,0.0,0.14925373134328357,55410
+55426,Ink Mfg.,0.0,0.09090909090909091,55426
+55597,Inner Tubes Mfg.,0.0,0.1891891891891892,55597
+55647,"Instrument Mfg.--Analytical, Calibrating, Measuring, Testing or Recording",0.0,0.2748091603053435,55647
+55648,Instrument Mfg.--Control,0.0,0.12195121951219512,55648
+55649,Instrument Mfg.,0.0,0.1917808219178082,55649
+55715,Insulating Material Mfg.--Mineral,0.0,0.3076923076923077,55715
+55716,Insulating Material Mfg.--Organic,0.0,0.2857142857142857,55716
+55717,Insulating Material Mfg.--Plastic--for Application in a Solid State,0.0,0.288,55717
+55718,Insulating Material Mfg.--Plastic,0.0,0.2857142857142857,55718
+55802,Jewelry Mfg.,0.0,0.14285714285714285,55802
+55918,Ladder Mfg.--Other Than Wood,0.0,0.16279069767441862,55918
+55919,Ladder Mfg.--Wood,0.0,0.16,55919
+56040,Lamp Shade Mfg.,0.0,0.136986301369863,56040
+56041,Lamps or Lanterns Mfg.--Electric,0.0,0.17777777777777778,56041
+56042,Lamps or Lanterns Mfg.--Other Than Electric,0.0,0.27722772277227725,56042
+56170,Lead Mfg.--Red or White,0.0,0.09876543209876543,56170
+56171,"Lead Works--Sheet, Pipe or Shot",0.0,0.24719101123595505,56171
+56202,Leather Goods Mfg.,0.0,0.15789473684210525,56202
+56390,Light Bulb or Tubes Mfg.,0.0,0.17073170731707318,56390
+56391,Lighting Fixtures Mfg.,0.0,0.225,56391
+56427,Lime Mfg.,0.0,0.11940298507462686,56427
+56488,Liquor Mfg.,0.0,0.11594202898550725,56488
+56567,Lubricants Mfg.--Grease,0.0,0.2222222222222222,56567
+56650,"Machinery or Machinery Parts Mfg.--Construction, Mining or Materials Handling Type",1.0,0.32857142857142857,56650
+56651,Machinery or Machinery Parts Mfg.--Farm Type,0.0,0.11764705882352941,56651
+56652,Machinery or Machinery Parts Mfg.--Industrial Type,0.0,0.1111111111111111,56652
+56653,Machinery or Machinery Parts Mfg.--Metalworking,0.0,0.11428571428571428,56653
+56654,Machinery or Machinery Parts Mfg.,0.0,0.13186813186813187,56654
+56690,Match Mfg.,0.0,0.14705882352941177,56690
+56699,Mattress or Box Spring Mfg.,0.0,0.3058823529411765,56699
+56758,"Meat, Fish, Poultry or Seafood--Curing",0.0,0.20833333333333334,56758
+56759,"Meat, Fish, Poultry or Seafood Processing--In Airtight Containers",0.0,0.2601626016260163,56759
+56760,"Meat, Fish, Poultry or Seafood Processing--Not in Airtight Containers",0.0,0.25196850393700787,56760
+56805,"Medical, Dental, Hospital or Surgical Equipment or Supplies Mfg.--Expendable",0.0,0.11940298507462686,56805
+56806,"Medical, Dental, Hospital or Surgical Equipment or Supplies Mfg.--Nonexpendable",0.0,0.11678832116788321,56806
+56807,"Medical, Dental, Hospital or Surgical Instruments Mfg.",0.0,0.17857142857142858,56807
+56808,"Medical, Dental or Surgical Diagnostic or Treatment Machines or Devices Mfg.",0.0,0.26865671641791045,56808
+56900,Metals--Extraction or Refining,0.0,0.22727272727272727,56900
+56910,Metal Foil Mfg.,0.0,0.1917808219178082,56910
+56911,Metal Goods Mfg.,0.0,0.16216216216216217,56911
+56912,Metal Goods Mfg.--Stamping--Not Signs,0.0,0.25263157894736843,56912
+56913,Metal Heat Processing,0.0,0.17721518987341772,56913
+56915,Metal Works--Shop--Structural--Load Bearing,0.0,0.27722772277227725,56915
+56916,Metal Works--Shop--Structural--Not Load Bearing,0.0,0.2857142857142857,56916
+56917,Metals--Extraction or Refining--Chemical Processes,0.0,0.2777777777777778,56917
+56918,Metals--Extraction or Refining--Electrometallurgical Processes,0.0,0.26666666666666666,56918
+56919,Metals--Extraction or Refining of Ferrous Metals--Blast Furnace or Other Pyrometallurgical Processes,0.0,0.26582278481012656,56919
+56920,Metals--Extraction or Refining of Nonferrous Metals--Blast Furnace or Other Pyrometallurgical Processes,0.0,0.2608695652173913,56920
+56980,Mica Goods Mfg.,0.0,0.136986301369863,56980
+57001,Milk Depots or Dealers,0.0,0.225,57001
+57002,Milk Processing,0.0,0.1917808219178082,57002
+57090,Mobile Home Mfg.,0.0,0.16216216216216217,57090
+57146,Modular Units Mfg.,0.0,0.15789473684210525,57146
+57202,"Motorcycle, Moped or Motor Scooter Mfg.",0.0,0.2268041237113402,57202
+57257,Musical Instrument Mfg.,0.0,0.19753086419753085,57257
+57401,Nails or Spikes Mfg.,0.0,0.15384615384615385,57401
+57403,"Needles, Pins or Tacks Mfg.",0.0,0.21176470588235294,57403
+57410,Net Mfg.--Other Than Safety Nets,0.0,0.2,57410
+57411,Net Mfg.--Safety Nets,0.0,0.22784810126582278,57411
+57572,Office Machines Mfg.,0.0,0.2564102564102564,57572
+57600,Optical Goods Mfg.,0.0,0.18421052631578946,57600
+57611,Ore Milling or Processing,0.0,0.3614457831325301,57611
+57625,"Orthopedic, Ambulation or Prosthetic Devices Mfg.",0.0,0.14953271028037382,57625
+57651,Packing Houses,0.0,0.2222222222222222,57651
+57690,"Paint, Varnish, Shellac or Lacquer Mfg.",0.0,0.24742268041237114,57690
+57716,Paper Coating or Finishing,0.0,0.2619047619047619,57716
+57725,Paper Goods Mfg.,0.0,0.1891891891891892,57725
+57726,Paper Mfg.,0.0,0.17647058823529413,57726
+57798,Parachute Mfg.,0.0,0.16666666666666666,57798
+57800,Media Mfg.--Blank,0.0,0.10666666666666667,57800
+57808,Pattern Mfg.--Metal,0.0,0.18181818181818182,57808
+57809,Pattern Mfg.--Other,0.0,0.12987012987012986,57809
+57810,Pattern Mfg.--Paper,0.0,0.12987012987012986,57810
+57871,"Pencil, Pen, Crayon or Chalk Mfg.",0.0,0.3076923076923077,57871
+57913,Pet Food Mfg.,0.0,0.19718309859154928,57913
+57997,Photo Finishing Laboratories,0.0,0.27906976744186046,57997
+57998,Photographic Equipment Mfg.,0.0,0.18823529411764706,57998
+57999,Photographic Supplies Mfg.,0.0,0.14285714285714285,57999
+58009,Pipes or Tubes Mfg.--Metal,0.0,0.21428571428571427,58009
+58010,Pipes or Tubes Mfg.--Plastic,0.0,0.18604651162790697,58010
+58020,Pipes Mfg.--Tobacco,0.0,0.23376623376623376,58020
+58056,Plastic Mfg.--Raw Material,0.0,0.23809523809523808,58056
+58057,Plastic or Rubber Goods Mfg.--Household,0.0,0.18556701030927836,58057
+58058,Plastic or Rubber Goods Mfg.--Other Than Household,0.0,0.2037037037037037,58058
+58095,Plumbing Fixtures Mfg.,0.0,0.2,58095
+58096,Plumbing Supplies Mfg.,0.0,0.2,58096
+58301,"Plywood, Veneer or Veneer Products Mfg.--Other",0.0,0.17307692307692307,58301
+58302,"Plywood, Veneer or Veneer Products Mfg.--without Log Processing",1.0,0.2644628099173554,58302
+58397,Prefabricated Building Mfg.,0.0,0.25882352941176473,58397
+58408,Printing--Other Than Not-For-Profit,0.0,0.06451612903225806,58408
+58409,Printing--Not-For-Profit Only,0.0,0.16091954022988506,58409
+58456,Publishers--Books or Magazines--Other Than Not-For-Profit,0.0,0.05217391304347826,58456
+58457,Publishers--Books or Magazines--Not-For-Profit Only,0.0,0.12844036697247707,58457
+58458,Publishers--Newspapers--Other Than Not-For-Profit,0.0,0.2616822429906542,58458
+58459,Publishers--Newspapers--Not-For-Profit Only,0.0,0.2376237623762376,58459
+58503,Pulp Mfg.,0.0,0.11940298507462686,58503
+58532,Pumps or Compressors Mfg.,0.0,0.1927710843373494,58532
+58559,Railroad Engine Mfg.,0.0,0.1794871794871795,58559
+58560,Railroad or Other Public Conveyance Cars Mfg.,0.0,0.2912621359223301,58560
+58561,Railroad or Other Public Conveyance Cars Parts Mfg.,0.0,0.27522935779816515,58561
+58575,Razor or Razor Blades Mfg.,0.0,0.11904761904761904,58575
+58627,Media Mfg.--Pre-Recorded,0.0,0.14634146341463414,58627
+58663,Refrigeration Equipment Mfg.,0.0,0.27906976744186046,58663
+58682,Rendering Works,0.0,0.2465753424657534,58682
+58713,Rolling Mills--Cold or Hot Process,0.0,0.2391304347826087,58713
+58737,Rope Mfg.,0.0,0.1791044776119403,58737
+58756,Rubber Mfg.,0.0,0.17391304347826086,58756
+58757,Rubber Reclaiming,0.0,0.24,58757
+58759,Rubber Stamp Mfg. or Assembling,0.0,0.15730337078651685,58759
+58802,"Saddles, Harnesses or Horses Furnishings Mfg.",0.0,0.27184466019417475,58802
+58813,Safes or Safe Vaults Mfg.,0.0,0.1686746987951807,58813
+58822,Sail Making,0.0,0.2608695652173913,58822
+58837,"Salt, Borax, Potash or Phosphate--Producing or Refining",0.0,0.21238938053097345,58837
+58840,Salt Mfg.,0.0,0.14925373134328357,58840
+58873,Saw Mills or Planing Mills,0.0,0.23809523809523808,58873
+58903,Sewing Machines Mfg.--Commercial,0.0,0.26666666666666666,58903
+58904,Sewing Machines Mfg.--Household,0.0,0.2696629213483146,58904
+58922,Sheet Metal Work--Shop Only,0.0,0.21176470588235294,58922
+59005,"Shoe, Boot or Slipper Mfg.",0.0,0.23809523809523808,59005
+59057,Sign Mfg.--Electrical,0.0,0.20253164556962025,59057
+59058,Sign Mfg.--Other Than Electrical,0.0,0.28888888888888886,59058
+59188,Slate Milling,0.0,0.22535211267605634,59188
+59189,Slate Splitting or Slate Roofing Mfg.,0.0,0.4,59189
+59223,Soap Mfg.,0.0,0.14925373134328357,59223
+59257,Sponge Processing,0.0,0.18666666666666668,59257
+59306,Sporting Goods or Athletic Equipment Mfg.,0.0,0.18181818181818182,59306
+59378,Steel Wool or Wire Wool Mfg.,0.0,0.3023255813953488,59378
+59481,Stone Crushing,0.0,0.25,59481
+59482,Stone Cutting or Polishing,0.0,0.42857142857142855,59482
+59537,Sugar Refining,0.0,0.16666666666666666,59537
+59601,Swimming Pools or Accessories Mfg.,0.0,0.2826086956521739,59601
+59647,"Syrups or Molasses--Refining, Blending or Mfg.",0.0,0.2692307692307692,59647
+59660,Tank Building or Mfg.--Metal--Not Pressurized,0.0,0.3106796116504854,59660
+59661,Tank Building or Mfg.--Metal--Pressurized,0.0,0.2828282828282828,59661
+59693,Tanning--Animal Hides,0.0,0.3291139240506329,59693
+59695,Telecommunication Equipment Mfg.,0.0,0.3111111111111111,59695
+59701,Television Picture Tube Mfg.,0.0,0.13953488372093023,59701
+59713,Tent or Canopy Mfg.,0.0,0.18181818181818182,59713
+59722,"Textile Bleaching, Dyeing, Mercerizing, Printing, Finishing or Silk Screening--New Goods",0.0,0.1643835616438356,59722
+59723,Textile Coating or Impregnating,0.0,0.38202247191011235,59723
+59724,Textile Mfg.--Impregnated or Coated,0.0,0.27956989247311825,59724
+59725,Textile Products Mfg.--Fabricated,0.0,0.1978021978021978,59725
+59726,"Textile Spinning, Weaving or Knitting Mills",0.0,0.27722772277227725,59726
+59738,"Tie, Post or Pole Yard",0.0,0.15,59738
+59750,"Tire Mfg.--Auto, Bus or Truck",0.0,0.20689655172413793,59750
+59751,"Tire Mfg.--Not Auto, Bus or Truck",0.0,0.1978021978021978,59751
+59773,Tobacco Products Mfg.--Cigars or Cigarettes,0.0,0.09900990099009901,59773
+59774,Tobacco Products Mfg.--Other,0.0,0.18604651162790697,59774
+59775,Tobacco Products Mfg.--Plug or Snuff,0.0,0.19148936170212766,59775
+59781,Tool Mfg.--Accessories,0.0,0.175,59781
+59782,Tool Mfg.--Hand Type--Not Powered,1.0,0.1978021978021978,59782
+59783,Tool Mfg.--Hand Type--Powered,1.0,0.20689655172413793,59783
+59784,Tool Mfg.--Power Equipment--Household Type--Outdoor or Workshop,0.0,0.19834710743801653,59784
+59790,Toys or Games Mfg.,0.0,0.15789473684210525,59790
+59798,Trailers Mfg.,0.0,0.2535211267605634,59798
+59806,Truck Mfg. or Assembling,0.0,0.17073170731707318,59806
+59867,Turpentine or Resin Mfg.,0.0,0.17073170731707318,59867
+59886,Twine or Cordage Mfg.,0.0,0.25316455696202533,59886
+59889,Umbrella or Cane Mfg.,0.0,0.12658227848101267,59889
+59892,Valves Mfg.,0.0,0.14492753623188406,59892
+59904,Vegetable Oil Mfg.--By Solvent Extraction,0.0,0.30303030303030304,59904
+59905,Vegetable Oil Mfg.,0.0,0.18421052631578946,59905
+59914,Metal Works--Shop--Decorative or Artistic,0.0,0.16161616161616163,59914
+59915,Vending Machines Mfg.,0.0,0.27848101265822783,59915
+59917,Venetian Blinds Mfg. or Assembling,0.0,0.17391304347826086,59917
+59923,Watch or Watch Case Mfg.,0.0,0.1951219512195122,59923
+59925,Water Bottling--In Siphons,0.0,0.2619047619047619,59925
+59926,Water Bottling--Spring or Well--Not Sparkling or Carbonated,0.0,0.3076923076923077,59926
+59927,Water Bottling--Spring or Well--Sparkling or Carbonated,0.0,0.3185840707964602,59927
+59931,Wax or Wax Products Mfg.,0.0,0.12195121951219512,59931
+59932,"Wax, Wax Products or Polish Mfg.--Floor",0.0,0.18556701030927836,59932
+59941,Wheel Mfg.,0.0,0.14705882352941177,59941
+59947,"Wicker, Rattan, Willow or Twisted Fiber Products Mfg.",0.0,0.23423423423423423,59947
+59955,Wigs or Hair Pieces Mfg.,0.0,0.14634146341463414,59955
+59963,Wine Mfg.--Sparkling,0.0,0.23076923076923078,59963
+59964,Wine Mfg.--Still,0.0,0.1891891891891892,59964
+59970,Wire Cloth Mfg.,0.0,0.1643835616438356,59970
+59973,Wire Drawing,0.0,0.22857142857142856,59973
+59975,Wire Goods Mfg.,0.0,0.1643835616438356,59975
+59977,Wire Rope or Cable Mfg.--Metal,0.0,0.22727272727272727,59977
+59984,Wood Preserving,0.0,0.1643835616438356,59984
+59985,Wood Products Mfg.,0.0,0.23684210526315788,59985
+59986,Wood Turned Products Mfg.,0.0,0.24096385542168675,59986
+59988,"Wool Combing, Scouring or Separating from Cotton",0.0,0.37735849056603776,59988
+59989,Wool Pulling,0.0,0.14285714285714285,59989
+60010,Apartment Buildings,0.0,0.23376623376623376,60010
+60011,Apartment Buildings--Garden,0.0,0.23529411764705882,60011
+60012,Apartment Buildings or Hotels Time-Sharing--Less Than 4 Stories,0.0,0.23140495867768596,60012
+60013,Apartment Buildings or Hotels Time-Sharing--4 Stories or More,0.0,0.23529411764705882,60013
+60015,Apartment Hotels--Less Than 4 Stories,0.0,0.2736842105263158,60015
+60016,Apartment Hotels--4 Stories or More,0.0,0.15053763440860216,60016
+60035,Automobile Renting or Leasing Companies,0.0,0.30927835051546393,60035
+61000,Boarding or Rooming Houses,0.0,0.30952380952380953,61000
+61212,Buildings or Premises--Bank or Office--Mercantile or Mfg. (Lessor's Risk Only)--Other Than Not-For-Profit,0.0,0.03680981595092025,61212
+61216,Buildings or Premises--Bank or Office--Mercantile or Mfg. (Lessor's Risk Only)--Not-For-Profit Only,0.0,0.08917197452229299,61216
+61217,Buildings or Premises--Bank or Office--Mercantile or Mfg. (Lessor's Risk Only)--Maintained by the Insured--Other Than Not-For-Profit,0.0,0.031578947368421054,61217
+61218,Buildings or Premises--Bank or Office--Mercantile or Mfg. (Lessor's Risk Only)--Maintained by the Insured--Not-For-Profit Only,0.0,0.07608695652173914,61218
+61223,Buildings or Premises--Bank and Other Financial Institutions,1.0,0.3050847457627119,61223
+61224,Buildings or Premises--Office--Premises Occupied by Employees of the Insured--Other Than Not-For-Profit,0.0,0.037267080745341616,61224
+61225,Buildings or Premises--Office--Premises Occupied by Employees of the Insured--Not-For-Profit Only,0.0,0.09032258064516129,61225
+61226,Buildings or Premises--Office--Other Than Not-For-Profit,0.0,0.05263157894736842,61226
+61227,Buildings or Premises--Office--Not-For-Profit Only,0.0,0.12962962962962962,61227
+62000,"Condominiums--Commercial--Bank or Mercantile, Mfg. or Office (Association Risk Only)",0.0,0.19718309859154928,62000
+62001,Condominiums--Commercial Shopping Centers (Association Risk Only),0.0,0.34146341463414637,62001
+62002,Condominiums--Commercial Warehouses--Mfg. or Private (Association Risk Only),0.0,0.208955223880597,62002
+62003,Condominiums--Residential--(Association Risk Only),0.0,0.2037037037037037,62003
+63010,Dwellings--One-Family (Lessor's Risk Only),0.0,0.22,63010
+63011,Dwellings--Two-Family (Lessor's Risk Only),0.0,0.22,63011
+63012,Dwellings--Three-Family (Lessor's Risk Only),0.0,0.21568627450980393,63012
+63013,Dwellings--Four-Family (Lessor's Risk Only),0.0,0.21782178217821782,63013
+63215,Exhibition or Convention Buildings--Other Than Not-For-Profit,0.0,0.05042016806722689,63215
+63216,Exhibition or Convention Buildings--Not-For-Profit Only,0.0,0.12389380530973451,63216
+63217,Exhibitions--In Buildings--Other Than Not-For-Profit,0.0,0.05454545454545454,63217
+63218,Exhibitions--In Buildings--Not-For-Profit Only,0.0,0.1346153846153846,63218
+63219,Exhibitions--In Buildings--No Admission Charged--Other Than Not-For-Profit,0.0,0.045454545454545456,63219
+63220,Exhibitions--In Buildings--No Admission Charged--Not-For-Profit Only,0.0,0.1111111111111111,63220
+64074,Hotels and Motels--(Lessor's Risk Only)--Less Than Four Stories,1.0,0.2644628099173554,64074
+64075,Hotels and Motels--(Lessor's Risk Only)--Four Stories or More,1.0,0.2689075630252101,64075
+64500,"Housing Projects--Federal, State, Local",0.0,0.30927835051546393,64500
+65007,Labor Union Offices,0.0,0.1038961038961039,65007
+66122,Lawyers Offices--Other Than Not-For-Profit,0.0,0.06,66122
+66123,Lawyers Offices--Not-For-Profit Only,0.0,0.14893617021276595,66123
+66309,Libraries,0.0,0.08955223880597014,66309
+66561,Medical Offices,0.0,0.1643835616438356,66561
+67017,"Shelters, Mission, Settlement or Halfway Houses--Not Church or Office Building",0.0,0.1323529411764706,67017
+67508,"Schools--Colleges, Universities, Junior Colleges or College Preparatory Other Than Not-For-Profit",0.0,0.03870967741935484,67508
+67509,"Schools--Colleges, Universities, Junior Colleges or College Preparatory Not-For-Profit Only",0.0,0.09395973154362416,67509
+67510,Schools--Dormitory Facilities--Other Than Not-For-Profit,0.0,0.22807017543859648,67510
+67511,Schools--Dormitory Facilities--Not-For-Profit Only,0.0,0.2962962962962963,67511
+67512,Schools--Other Than Not-For-Profit,0.0,0.06521739130434782,67512
+67513,Schools--Not-For-Profit Only,0.0,0.16279069767441862,67513
+67634,Shopping Centers--Indoor Malls--Buildings or Premises Not Occupied by the Insured (Lessor's Risk Only),0.0,0.225,67634
+67635,Shopping Centers--Buildings or Premises Not Occupied by the Insured (Lessor's Risk Only),0.0,0.2191780821917808,67635
+68001,Taxicab Companies,0.0,0.18666666666666668,68001
+68439,Ticket Agencies,0.0,0.136986301369863,68439
+68500,Townhouses or Similar Associations (Association Risk Only),0.0,0.22413793103448276,68500
+68604,Vacant Buildings--Factories,0.0,0.21176470588235294,68604
+68606,Vacant Buildings--Not Factories--Other Than Not-For-Profit,0.0,0.15517241379310345,68606
+68607,Vacant Buildings--Not Factories--Not-For-Profit Only,0.0,0.23636363636363636,68607
+68702,Warehouses--Occupied by Multiple Interests (Lessor's Risk Only),0.0,0.19834710743801653,68702
+68703,Warehouses--Occupied by Single Interest (Lessor's Risk Only),0.0,0.1864406779661017,68703
+68706,Warehouses--Private--Other Than Not-For-Profit,0.0,0.057692307692307696,68706
+68707,Warehouses--Private--Not-For-Profit Only,0.0,0.14285714285714285,68707
+90089,Advertising Sign Companies--Outdoor,0.0,0.25806451612903225,90089
+91111,"Air Conditioning Systems or Equipment--Dealers or Distributors and Installation, Servicing or Repair",1.0,0.24050632911392406,91111
+91125,"Airport Runway or Warming Apron--Paving or Repaving, Surfacing, Resurfacing or Scraping",0.0,0.2896551724137931,91125
+91127,"Alarms and Alarm Systems--Installation, Servicing or Repair",1.0,0.20512820512820512,91127
+91130,Alarms--Security Systems--Monitoring,0.0,0.2553191489361702,91130
+91135,Analytical Chemists,0.0,0.2077922077922078,91135
+91150,"Appliances and Accessories--Installation, Servicing or Repair--Commercial",1.0,0.22900763358778625,91150
+91155,"Appliances and Accessories--Installation, Servicing or Repair--Household",1.0,0.23076923076923078,91155
+91160,Armored Car Service Companies,0.0,0.22988505747126436,91160
+91175,Auctioneers--Livestock--Sales Conducted Away from the Insured's Premises,0.0,0.24615384615384617,91175
+91177,Auctioneers--Sales Conducted Away from the Insured's Premises,0.0,0.25210084033613445,91177
+91179,Auctions--on Premises Owned or Rented by the Insured,0.0,0.23636363636363636,91179
+91190,Automobile Dismantling,0.0,0.2,91190
+91200,Blacksmithing,0.0,0.16901408450704225,91200
+91210,Blasting Operations,0.0,0.2597402597402597,91210
+91235,Boat Repair and Servicing,1.0,0.3855421686746988,91235
+91250,"Boiler Inspection, Installation, Cleaning or Repair",0.0,0.29357798165137616,91250
+91265,Bridge or Elevated Highway Construction--Iron or Steel,0.0,0.21428571428571427,91265
+91266,Bridge or Elevated Highway Construction--Concrete,0.0,0.22429906542056074,91266
+91280,Building Structure--Raising or Moving,0.0,0.23157894736842105,91280
+91302,Cable Installation in Conduits or Subways,0.0,0.20202020202020202,91302
+91315,Cable or Subscription Television Companies,0.0,0.28,91315
+91324,Caisson or Cofferdam Work--Foundations for Buildings,0.0,0.21818181818181817,91324
+91325,Caisson or Cofferdam Work--Not Foundations for Buildings,0.0,0.21052631578947367,91325
+91340,Carpentry--Construction of Residential Property Not Exceeding Three Stories in Height,0.0,0.27972027972027974,91340
+91341,Carpentry--Interior,0.0,0.2077922077922078,91341
+91342,Carpentry,0.0,0.08955223880597014,91342
+91343,Carpentry--Shop Only,0.0,0.23076923076923078,91343
+91405,"Carpet, Rug, Furniture or Upholstery Cleaning--on Customers' Premises",0.0,0.2992125984251969,91405
+91436,Ceiling or Wall Installation--Metal,0.0,0.3010752688172043,91436
+91481,Chimney Cleaning,0.0,0.2702702702702703,91481
+91507,Clay or Shale Digging,0.0,0.20253164556962025,91507
+91523,Cleaning--Outside Surfaces of Buildings & Other Exterior Surfaces,0.0,0.21138211382113822,91523
+91547,Commissary Work,0.0,0.2191780821917808,91547
+91551,Communication Equipment Installation--Industrial or Commercial,0.0,0.25,91551
+91555,Computer Service or Repair,0.0,0.21428571428571427,91555
+91560,Concrete Construction,0.0,0.22784810126582278,91560
+91562,"Concrete or Cement Distributing Towers--Rented to Others--Installation, Repair or Removal Operations Only",0.0,0.22085889570552147,91562
+91577,Conduit Construction for Cables or Wires,0.0,0.24489795918367346,91577
+91580,Contractors--Executive Supervisors or Executive Superintendents,0.0,0.24793388429752067,91580
+91581,"Contractors--Subcontracted Work--In Connection with Construction, Reconstruction, Erection or Repair--Not Buildings",1.0,0.24277456647398843,91581
+91582,"Contractors--Subcontracted Work--In Connection with Building Construction, Reconstruction, Repair or Erection--Apartment or Office Buildings over Four Stories",1.0,0.25925925925925924,91582
+91583,"Contractors--Subcontracted Work--In Connection with Building Construction, Reconstruction, Repair or Erection--One- or Two-Family Dwellings",1.0,0.29441624365482233,91583
+91584,"Contractors--Subcontracted Work--In Connection with Construction, Reconstruction, Repair or Erection of Buildings--for Industrial Use",1.0,0.28272251308900526,91584
+91585,"Contractors--Subcontracted Work--In Connection with Construction, Reconstruction, Repair or Erection of Buildings",1.0,0.24561403508771928,91585
+91586,"Contractors--Subcontracted Work--In Connection with Oil and Gas Field Construction, Reconstruction or Repair",2.0,0.30120481927710846,91586
+91587,"Contractors--Subcontracted Work--In Connection with Pipeline (Other Than Oil or Gas) or Communication or Power Line Construction, Reconstruction or Repair",1.0,0.24528301886792453,91587
+91588,"Contractors--Subcontracted Work--In Connection with Bridge, Tunnel, Elevated Street or Highway Construction, Reconstruction or Repair",1.0,0.2617801047120419,91588
+91589,"Contractors--Subcontracted Work--In Connection with Street or Highway Construction or Repair, Not Elevated",1.0,0.24390243902439024,91589
+91590,Contractors Permanent Yards--Maintenance or Storage of Equipment or Material,0.0,0.1791044776119403,91590
+91591,Contractors--Subcontracted Work--Other Than Construction-Related Work,0.0,0.1889763779527559,91591
+91600,Construction or Project Manager,0.0,0.24719101123595505,91600
+91606,Crop Spraying--by Contractors,0.0,0.22988505747126436,91606
+91618,Dam or Reservoir Construction,0.0,0.25287356321839083,91618
+91629,Debris Removal--Construction Site,0.0,0.06593406593406594,91629
+91636,Detective or Investigative Agencies--Private,0.0,0.21568627450980393,91636
+91641,"Dike, Levee or Revetment Construction",0.0,0.21052631578947367,91641
+91666,Diving--Marine,0.0,0.2222222222222222,91666
+91722,"Dock Operations--Coal, Grain or Ore",0.0,0.3010752688172043,91722
+91746,"Door, Window or Assembled Millwork--Installation--Metal",0.0,0.24778761061946902,91746
+91805,Draftsmen,0.0,0.08955223880597014,91805
+92053,Dredging--Gold--Endless Bucket or Ladder Type,0.0,0.21359223300970873,92053
+92054,Dredging--Gold--Floating Dragline Type,0.0,0.2708333333333333,92054
+92055,Dredging,0.0,0.15151515151515152,92055
+92101,Drilling--Other Than Water,0.0,0.2619047619047619,92101
+92102,Drilling--Water,0.0,0.2191780821917808,92102
+92215,"Driveway, Parking Area or Sidewalk--Paving or Repaving",0.0,0.32142857142857145,92215
+92338,Dry Wall or Wallboard Installation,0.0,0.2608695652173913,92338
+92445,Electric Light or Power Companies,0.0,0.3516483516483517,92445
+92446,Electric Light or Power Line Construction,0.0,0.20202020202020202,92446
+92447,Electric Light or Power Line Construction--Rural Utilities Service Projects Only,0.0,0.2753623188405797,92447
+92451,"Electrical Apparatus--Installation, Servicing or Repair",0.0,0.23008849557522124,92451
+92478,Electrical Work--within Buildings,1.0,0.26373626373626374,92478
+92593,"Elevator or Escalator Inspecting, Installation, Servicing or Repair",0.0,0.192,92593
+92663,Engineers or Architects--Consulting--Not Engaged in Actual Construction,0.0,0.29457364341085274,92663
+94007,Excavation,0.0,0.08823529411764706,94007
+94099,Express Companies,0.0,0.24,94099
+94225,Farm Machinery Operations--by Contractors,0.0,0.16161616161616163,94225
+94276,Fence Erection Contractors,0.0,0.2619047619047619,94276
+94304,"Fire Extinguishers--Servicing, Refilling or Testing",0.0,0.3669724770642202,94304
+94381,"Fire Suppression Systems--Installation, Servicing or Repair",0.0,0.2564102564102564,94381
+94404,Fireproofing--Structures,0.0,0.24390243902439024,94404
+94444,Contractors,0.0,0.17391304347826086,94444
+94569,Floor Covering Installation--Not Ceramic Tile or Stone,0.0,0.26785714285714285,94569
+94590,Floor Waxing,0.0,0.22857142857142856,94590
+94617,"Freight Forwarders or Handlers--Other Than Packing, Handling or Shipping Explosives or Ammunition under Contract",1.0,0.2823529411764706,94617
+94638,"Freight Forwarders or Handlers--Packing, Handling or Shipping Explosives or Ammunition under Contract",1.0,0.3018867924528302,94638
+95124,Furniture or Fixtures--Installation in Offices or Stores--Portable--Metal or Wood,0.0,0.2014388489208633,95124
+95233,"Garbage, Ash or Refuse Collecting",0.0,0.21978021978021978,95233
+95305,Gas Companies,0.0,0.16901408450704225,95305
+95306,Gas Companies--Natural Gas--Local Distribution,0.0,0.23076923076923078,95306
+95310,Gas Mains or Connections Construction,0.0,0.2736842105263158,95310
+95357,Geophysical Exploration--Other,0.0,0.18181818181818182,95357
+95358,Geophysical Exploration--Seismic Method,0.0,0.14432989690721648,95358
+95410,Grading of Land,1.0,0.273972602739726,95410
+95455,Grain Elevator Operations,0.0,0.3132530120481928,95455
+95487,Greenhouse Erection,0.0,0.23376623376623376,95487
+95505,Guniting or Shot-Crete,0.0,0.2,95505
+95620,Gunsmiths,0.0,0.1791044776119403,95620
+95625,Handyperson,1.0,0.2898550724637681,95625
+95630,Hazardous Material Contractors,0.0,0.29545454545454547,95630
+95647,"Heating or Combined Heating and Air Conditioning Systems or Equipment--Dealers or Distributors and Installation, Servicing or Repair--No Liquefied Petroleum Gas (LPG) Equipment Sales or Work",1.0,0.20161290322580644,95647
+95648,"Heating or Combined Heating and Air Conditioning Systems or Equipment--Dealers or Distributors and Installation, Servicing or Repair",1.0,0.2631578947368421,95648
+96053,House Furnishings Installation,0.0,0.25,96053
+96317,Inspection and Appraisal Companies--Inspecting for Insurance or Valuation Purposes,1.0,0.3142857142857143,96317
+96408,Insulation Work--Plastic,0.0,0.17073170731707318,96408
+96409,Insulation Work--Organic or Plastic in Solid State,0.0,0.18518518518518517,96409
+96410,Insulation Work--Mineral,0.0,0.17073170731707318,96410
+96611,Interior Decorators,0.0,0.2597402597402597,96611
+96702,Irrigation or Drainage System Construction,0.0,0.36,96702
+96703,Irrigation Works Operations,0.0,0.25882352941176473,96703
+96816,Janitorial Services,0.0,0.18181818181818182,96816
+96872,Jetty or Breakwater Construction,0.0,0.3111111111111111,96872
+96930,Web Site Designers,0.0,0.2631578947368421,96930
+97002,"Laboratories--Research, Development or Testing--Other Than Not-For-Profit",0.0,0.04580152671755725,97002
+97003,"Laboratories--Research, Development or Testing--Not-For-Profit Only",0.0,0.112,97003
+97047,Landscape Gardening,1.0,0.23376623376623376,97047
+97050,Lawn Care Services,0.0,0.07894736842105263,97050
+97111,Logging and Lumbering,1.0,0.379746835443038,97111
+97220,Machine Shops,0.0,0.14084507042253522,97220
+97221,"Machinery or Equipment--Farm--Installation, Servicing, Repair or Erection",0.0,0.0916030534351145,97221
+97222,"Machinery or Equipment--Industrial--Installation, Servicing or Repair",0.0,0.09448818897637795,97222
+97223,"Machinery or Equipment--Installation, Servicing or Repair",0.0,0.10434782608695652,97223
+97308,Marine Appraisers or Surveyors,0.0,0.3409090909090909,97308
+97447,Masonry,0.0,0.12307692307692308,97447
+97650,Metal Erection--Decorative or Artistic,0.0,0.16666666666666666,97650
+97651,Metal Erection--Frame Structures Iron Work on Outside of Buildings,0.0,0.20967741935483872,97651
+97652,Metal Erection--In the Construction of Dwellings Not Exceeding 2 Stories in Height,0.0,0.24285714285714285,97652
+97653,Metal Erection--Nonstructural,0.0,0.16091954022988506,97653
+97654,"Metal Erection--Steel Lock Gates, Gasholders, Standpipes, Water Towers, Smokestacks, Tanks, Silos, Prison Cells, Fire or Burglarproof Vaults",1.0,0.2222222222222222,97654
+97655,Metal Erection--Structural,0.0,0.16666666666666666,97655
+98002,Mining,0.0,0.15625,98002
+98003,Mining--Surface,0.0,0.2191780821917808,98003
+98090,"Motion Pictures--Development of Negatives, Printing and All Subsequent Operations",1.0,0.302158273381295,98090
+98091,Motion Pictures--Film Distribution or Exchanges--Not Located at Motion Picture Studios,0.0,0.2361111111111111,98091
+98092,Motion Pictures--Production--Studios or Outside--All Operations Prior to the Development of Negatives,0.0,0.2138364779874214,98092
+98111,"Office Machines or Appliances--Installation, Inspection, Adjustment or Repair",0.0,0.13333333333333333,98111
+98150,Oil or Natural Gas Lease Operations,0.0,0.25806451612903225,98150
+98151,"Oil or Gas Lease Operations--Natural Gas--within the Limits of Any Town or City on the Right-Of-Way of Any Railroad or in Any Ocean, Gulf or Bay",1.0,0.3069306930693069,98151
+98152,Oil or Gas Lease Work by Contractors--Not Lease Operation,0.0,0.33043478260869563,98152
+98153,Oil or Gas Wells--Acidizing,0.0,0.23529411764705882,98153
+98154,Oil or Gas Wells--Cementing,0.0,0.18823529411764706,98154
+98155,Oil or Gas Wells--Cleaning or Swabbing by Contractors,0.0,0.3063063063063063,98155
+98156,"Oil or Gas Wells--Cleaning or Swabbing by Contractors--within the Limits of Any Town or City, on the Right-Of-Way of Any Railroad or in Any Ocean, Gulf or Bay",1.0,0.19444444444444445,98156
+98157,"Oil or Gas Wells--Drilling or Redrilling, Installation or Recovery of Casing",0.0,0.22388059701492538,98157
+98158,"Oil or Gas Wells--Drilling or Redrilling, Installation or Recovery of Casing--within the Limits of Any Town or City, on the Right-Of-Way of Any Railroad or in Any Ocean, Gulf or Bay",1.0,0.22594142259414227,98158
+98159,Oil or Gas Wells--Instrument Logging or Survey Work in Wells,0.0,0.288135593220339,98159
+98160,Oil or Gas Wells--Perforating of Casing,0.0,0.3711340206185567,98160
+98161,Oil or Gas Wells--Servicing--By Contractors,0.0,0.25742574257425743,98161
+98162,Oil or Gas Wells--Shooting,0.0,0.19047619047619047,98162
+98163,Oil Rig or Derrick Erecting or Dismantling--Wood or Metal,0.0,0.24347826086956523,98163
+98164,Oil Still Erection or Repair,0.0,0.2558139534883721,98164
+98257,Orchards and Vineyards--Operation by Contractors,1.0,0.3018867924528302,98257
+98303,Painting--Exterior--Buildings or Structures--Exceeding Three Stories in Height,0.0,0.22058823529411764,98303
+98304,Painting--Exterior--Buildings or Structures--Three Stories or Less in Height,0.0,0.1791044776119403,98304
+98305,Painting--Interior--Buildings or Structures,0.0,0.297029702970297,98305
+98306,Painting--Oil or Gasoline Tanks,0.0,0.24719101123595505,98306
+98307,Painting--Ship Hulls,0.0,0.2564102564102564,98307
+98308,Painting--Shop Only,0.0,0.2857142857142857,98308
+98309,Painting--Steel Structures or Bridges,0.0,0.29473684210526313,98309
+98344,Paperhanging,0.0,0.14285714285714285,98344
+98405,Piano Tuning,0.0,0.2571428571428571,98405
+98413,Pile Driving--Building Foundation Only,0.0,0.2916666666666667,98413
+98414,Pile Driving--Other,0.0,0.2077922077922078,98414
+98415,Pile Driving--Sonic Method,0.0,0.2619047619047619,98415
+98423,Pipeline Construction--Gas,0.0,0.16666666666666666,98423
+98424,Pipeline Construction--Other,0.0,0.18604651162790697,98424
+98425,Pipeline Construction--Oil,0.0,0.21428571428571427,98425
+98426,Pipeline Construction--Slurry--Nonflammable Mixtures,0.0,0.14545454545454545,98426
+98427,Pipelines--Operation--Gas,0.0,0.26506024096385544,98427
+98428,Pipelines--Operation--Other,0.0,0.2823529411764706,98428
+98429,Pipelines--Operation--Oil,0.0,0.26506024096385544,98429
+98430,Pipelines--Operation--Slurry--Nonflammable Mixtures,0.0,0.25688073394495414,98430
+98449,Plastering or Stucco Work,0.0,0.26506024096385544,98449
+98482,Plumbing--Commercial and Industrial,1.0,0.27956989247311825,98482
+98483,Plumbing--Residential or Domestic,0.0,0.21978021978021978,98483
+98502,Prefabricated Building Erection,0.0,0.3146067415730337,98502
+98555,Quarries,0.0,0.09090909090909091,98555
+98597,Radio or TV Broadcasting Stations--Other Than Not-For-Profit,0.0,0.288135593220339,98597
+98598,Radio or TV Broadcasting Stations--Not-For-Profit Only,0.0,0.25,98598
+98601,Railroad Construction,0.0,0.27848101265822783,98601
+98622,Railroads--Operation and Maintenance--with BI Passenger Hazard,2.0,0.3,98622
+98623,Railroads--Operation and Maintenance--without BI Passenger Hazard,2.0,0.22764227642276422,98623
+98624,Railroads--Shop Operation and Maintenance,1.0,0.26262626262626265,98624
+98636,"Refrigeration Systems or Equipment--Dealers and Distributors and Installation, Servicing or Repair--Commercial",1.0,0.25,98636
+98640,Renovating--Outside Surfaces of Buildings,0.0,0.26262626262626265,98640
+98658,Rigging--Not Ship or Boat,0.0,0.26506024096385544,98658
+98659,Rigging--Ship or Boat,0.0,0.22784810126582278,98659
+98677,Roofing--Commercial or Residential Over Three Stories,0.0,0.25225225225225223,98677
+98678,Roofing--Residential--Three Stories & Under,0.0,0.19801980198019803,98678
+98698,Salvage Operations,0.0,0.21052631578947367,98698
+98699,"Salvage Operations--Removing, Sorting, Reconditioning and Distributing of Merchandise in Damaged",1.0,0.22077922077922077,98699
+98705,Sandblasting,1.0,0.11428571428571428,98705
+98710,Sand or Gravel Digging,1.0,0.275,98710
+98751,Security and Patrol Agencies,1.0,0.3953488372093023,98751
+98806,"Septic Tank Systems--Installation, Servicing or Repair",0.0,0.23214285714285715,98806
+98810,Sewage Disposal--Plant Operations,0.0,0.3076923076923077,98810
+98813,Sewer Cleaning,0.0,0.19444444444444445,98813
+98820,Sewer Mains or Connections Construction,0.0,0.26804123711340205,98820
+98871,Shaft Sinking,0.0,0.22535211267605634,98871
+98884,Sheet Metal Work--Outside,0.0,0.1927710843373494,98884
+98914,Ship Ceiling or Scaling,0.0,0.37037037037037035,98914
+98949,Ship Repair or Conversion,0.0,0.2891566265060241,98949
+98967,Siding Installation,0.0,0.2077922077922078,98967
+98993,"Sign Erection, Installation or Repair",0.0,0.16842105263157894,98993
+99003,Sign Painting or Lettering--Inside of Buildings,0.0,0.3238095238095238,99003
+99004,Sign Painting or Lettering--on Buildings or Structures,0.0,0.30357142857142855,99004
+99080,Solar Energy Contractors,0.0,0.24390243902439024,99080
+99111,"Stables--Boarding, Livery or Racing",0.0,0.1935483870967742,99111
+99160,Steam Heating or Steam Power Companies,0.0,0.3958333333333333,99160
+99163,Steam Mains or Connections Construction,0.0,0.28865979381443296,99163
+99165,Steam Pipe or Boiler Insulation,0.0,0.24719101123595505,99165
+99220,Stevedoring--By Hand or by Means of Hand Trucks Exclusively--No Hoisting of Cargo,1.0,0.28776978417266186,99220
+99221,Stevedoring--Handling Explosives or Ammunition--under Contract,1.0,0.31666666666666665,99221
+99222,Stevedoring,0.0,0.17391304347826086,99222
+99223,Stevedoring--Tallyers or Checking Clerks Engaged in Connection with Stevedoring Work,1.0,0.2535211267605634,99223
+99303,Street Cleaning,0.0,0.2191780821917808,99303
+99310,Snow & Ice Removal--Contractor,0.0,0.13636363636363635,99310
+99315,Street or Road Construction or Reconstruction,0.0,0.27184466019417475,99315
+99321,"Street or Road Paving or Repaving, Surfacing or Resurfacing or Scraping",0.0,0.35658914728682173,99321
+99471,Surveyors--Land--Not Engaged in Actual Construction,1.0,0.3119266055045872,99471
+99505,Swimming Pool Servicing,0.0,0.345679012345679,99505
+99506,"Swimming Pools--Installation, Servicing or Repair--Above Ground",0.0,0.23140495867768596,99506
+99507,"Swimming Pools--Installation, Servicing or Repair--Below Ground",0.0,0.24793388429752067,99507
+99570,"Tank Construction, Installation, Erection or Repair--Metal--Not Pressurized",0.0,0.12030075187969924,99570
+99571,"Tank Construction, Installation, Erection or Repair--Metal--Pressurized",0.0,0.12403100775193798,99571
+99572,"Tank Construction, Installation, Erection or Repair--Metal--Not Pressurized--within Buildings Exclusively",1.0,0.24539877300613497,99572
+99573,"Tank Construction, Installation, Erection or Repair--Metal--Pressurized--within Buildings Exclusively",1.0,0.25157232704402516,99573
+99600,Telecommunications Service Providers,0.0,0.2978723404255319,99600
+99613,"Telephone, Telegraph or Cable Television Line Construction",0.0,0.25862068965517243,99613
+99614,Telegraph Companies,0.0,0.2857142857142857,99614
+99620,Teleproduction Studios,0.0,0.3,99620
+99650,Television or Radio Receiving Set Installation or Repair,0.0,0.2807017543859649,99650
+99709,"Tent or Canvas Goods--Erection, Removal or Repair--Away from Shop",0.0,0.2764227642276423,99709
+99718,Theatrical Companies--Traveling,0.0,0.3146067415730337,99718
+99746,"Tile, Stone, Marble, Mosaic or Terrazzo Work--Interior Construction",0.0,0.336,99746
+99760,Tobacco Rehandling or Warehousing,1.0,0.3076923076923077,99760
+99777,"Tree Pruning, Dusting, Spraying, Repairing, Trimming or Fumigating",0.0,0.1935483870967742,99777
+99793,Truckers,0.0,0.15151515151515152,99793
+99798,Tunneling,0.0,0.208955223880597,99798
+99803,Underpinning Buildings or Structures,0.0,0.23404255319148937,99803
+99826,Upholstering,0.0,0.2,99826
+99827,Upholstering--Shop Only,0.0,0.2716049382716049,99827
+99851,Veterinarian or Veterinary Hospitals,0.0,0.0851063829787234,99851
+99917,Warehouse--Cold Storage--Public,0.0,0.11235955056179775,99917
+99938,Warehouses,0.0,0.058823529411764705,99938
+99943,Water Companies,0.0,0.2191780821917808,99943
+99946,Water Mains or Connections Construction,0.0,0.28865979381443296,99946
+99948,"Water Softening Equipment--Installation, Servicing or Repair",0.0,0.288135593220339,99948
+99952,Waterproofing--By Pressure Apparatus,0.0,0.2553191489361702,99952
+99953,Waterproofing--By Trowel--Exterior,0.0,0.21739130434782608,99953
+99954,Waterproofing--By Trowel--Interior or Insulation Work,0.0,0.2882882882882883,99954
+99955,Waterproofing,0.0,0.19718309859154928,99955
+99963,"Weighers, Samplers or Inspectors of Merchandise--on Vessels or Docks or at Railway Stations or Warehouses",1.0,0.22085889570552147,99963
+99969,Welding or Cutting,0.0,0.3157894736842105,99969
+99975,Window Cleaning,0.0,0.2191780821917808,99975
+99986,Wrecking--Buildings or Structures,0.0,0.1978021978021978,99986
+99987,Wrecking--Dismantling of Prefabricated Dwellings Not Exceeding Three Stories for Reerection,0.0,0.21476510067114093,99987
+99988,Wrecking--Marine,0.0,0.24324324324324326,99988
+441105,"Governmental: Municipalities--Population 100,001-250,000",0.0,0.21052631578947367,441105
+41718,Health Clubs or Gyms — Including Personal Training,,,
