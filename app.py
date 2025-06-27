@@ -49,9 +49,7 @@ st.markdown(
             color: #ffffff !important;
         }
     </style>
-    """,
-    unsafe_allow_html=True
-)
+    """, unsafe_allow_html=True)
 
 # Display logo
 st.image("https://raw.githubusercontent.com/AASJadams/Submission-Analyzer/main/AAS-Logo.png", width=200)
