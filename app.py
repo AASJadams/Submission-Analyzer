@@ -130,7 +130,7 @@ for file in uploaded_files:
 @retry(stop=stop_after_attempt(5), wait=wait_random_exponential(min=1, max=10))
 def get_chat_response(prompt):
     return client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4-turbo",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.3,
     )
