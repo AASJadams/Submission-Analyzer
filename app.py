@@ -147,7 +147,7 @@ if st.button("🧠 Analyze Submission"):
         all_text += "\n\n---\n\n# Freeform Notes\n\n" + freeform_text
         
     # Limit the size of the prompt to avoid BadRequestError from OpenAI
-    MAX_CHARS = 60000
+    MAX_CHARS = 45000
 
     if len(all_text) > MAX_CHARS:
         st.warning("⚠️ The combined submission content is too long. Truncating to fit model limits.")
