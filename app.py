@@ -20,7 +20,7 @@ load_dotenv()
 MODEL = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
 
 # OpenAI client
-st.text(f"OpenAI key loaded: {os.getenv('OPENAI_API_KEY')[:10]}...")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # Streamlit setup
 st.set_page_config(page_title="Insurance Submission Analyzer", layout="wide")
