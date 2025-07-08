@@ -19,8 +19,8 @@ load_dotenv()
 # Model selection
 MODEL = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
 
-# OpenAI client
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+# OpenAI client setup
+client = OpenAI(api_key="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")
 
 # Streamlit setup
 st.set_page_config(page_title="Insurance Submission Analyzer", layout="wide")
